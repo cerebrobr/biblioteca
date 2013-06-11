@@ -1,6 +1,7 @@
 # Índice Geral
 
 * [Api's](apis/)
+* [Gerenciadores de Conteúdo](cms/)
 * [Conceitos](concepts/)
 * [Banco de Dados](databases/)
 * [Frameworks](frameworks/)
@@ -10,7 +11,7 @@
 * [Mobile](mobile/)
 * [Pré-processadores](pre-processors)
 * [Ferramentas](tools/)
-* [WordPress](wordpress/)
+
 
 ## Coffee And Code Project ##
 
@@ -40,6 +41,7 @@ Neste espaço, você contará com links para estudos categorizados por tópicos.
 ```
 	learning/
 	├── apis/
+	├── cms/
 	├── concepts/
 	├── databases/
 	├── frameworks/
@@ -60,6 +62,5 @@ Neste espaço, você contará com links para estudos categorizados por tópicos.
 	│   └── ruby
 	├── mobile
 	├── pre-processors
-	├── tools
-	└── wordpress
+	└── tools
 ```
