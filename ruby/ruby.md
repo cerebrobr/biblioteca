@@ -1,4 +1,4 @@
-# Learning Ruby (on Rails)
+# Learning Ruby
 
 ## Books
 
