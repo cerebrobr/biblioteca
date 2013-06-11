@@ -1,4 +1,4 @@
-# Learning Foundation (CSS Framework)
+# Learning Foundation
 
 ## Books
 
