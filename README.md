@@ -16,7 +16,7 @@ Então, surge o projeto ***Coffee and Code***, que vem a ser um espaço colabora
 
 ## Sobre ##
 
-Aqui, estarão disponíveis links para estudos categorizados em tópicos.
+Neste espaço, vocês contam com links para estudos categorizados por tópicos.
 
 > ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
