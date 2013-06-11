@@ -4,7 +4,7 @@ Sabemos da grande influência do GitHub na vida dos desenvolvedores hoje em dia,
 
 No começo, foi pensado um blog para que eu pudesse expor minhas opiniões, ponto de vista sobre recursos/ferramentas/tecnologias e disponibilizar meus experimentos. 
 
-Sempre tive o hábito de testar novas ferramentas, a paixão por computadores começou aos 9 anos de idade e por programação aos 14. Essa paixão, e o desafio em solucionar um problema, me trouxe momentos de extrema felicidade. 
+Sempre tive o hábito de testar novas ferramentas, a paixão por computadores começou aos 9 anos de idade e por programação aos 14. Essa paixão, e o desafio em solucionar os problemas, me trouxeram momentos de extrema felicidade. 
 
 Reservo um local na minha máquina e um sub-domínio, o qual entitulo de MyLabs, para este fim. Mas, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei a conclusão de que poderia unir: artigos, feedbacks, guias, documentos, experimentos e mais uma infinidade de coisas, em um só lugar. 
 
