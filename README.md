@@ -25,3 +25,4 @@ Aqui, estarão disponíveis links para estudos categorizados em tópicos.
 ### TODO LIST
 
 1. Criar página no GitHub com o Jekyll
+2. Traduzir para Inglês
