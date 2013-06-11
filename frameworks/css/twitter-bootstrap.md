@@ -1,4 +1,4 @@
-# Learning Bootstrap (CSS Framework)
+# Learning Bootstrap
 
 ## Books
 
