@@ -14,9 +14,6 @@ Então, surge o projeto ***Coffee and Code***. Que vem a ser um espaço aberto a
 
 ***Faça o seu café, e vamos lá! =D***
 
->Importante: a princípio, este projeto será orientado aos desenvolvedores da comunidade brasileira.
-
-
 ## Learning ##
 
 Aqui, estarão disponíveis links para estudos categorizados em tópicos.
