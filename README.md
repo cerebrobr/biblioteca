@@ -14,14 +14,14 @@ Então, surge o projeto ***Coffee and Code***, que vem a ser um espaço colabora
 
 ***Faça o seu café, e vamos lá! =D***
 
-## Learning ##
+## Sobre ##
 
 Aqui, estarão disponíveis links para estudos categorizados em tópicos.
 
 > ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
 
-## File Structure ##
+## Estrutura dos Arquivos ##
 
 ```
 	learning/
