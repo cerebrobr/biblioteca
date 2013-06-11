@@ -1,6 +1,6 @@
 # Sumário
 
-Neste espaço, você encontra diversos links sobre bancos de dados.
+Neste espaço você encontra artigos, referências, livros e vídeos sobre os bancos de dados listados abaixo.
 
 * [Maria DB](mariadb.md)
 * [Mongo DB](mongodb.md)
