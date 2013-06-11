@@ -23,7 +23,8 @@ Aqui, estarão disponíveis links para estudos categorizados em tópicos.
 
 ## File Structure ##
 
-  learning/
+```
+	learning/
 	├── apis/
 	├── concepts/
 	├── databases/
@@ -47,16 +48,4 @@ Aqui, estarão disponíveis links para estudos categorizados em tópicos.
 	├── pre-processors
 	├── tools
 	└── wordpress
-
-<br>
-<br>
-<br>
-===
-<br>
-<br>
-<br>
-### TODO LIST
-
-1. Adicionar conteúdo
-2. Criar página no GitHub com o Jekyll
-3. Traduzir para Inglês
+```
