@@ -26,7 +26,7 @@ Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei 
 
 Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para os desenvolvedores web.
 
-***Faça o seu café, e vamos lá! =D***
+***Faça o seu café, e bons estudos! =D***
 
 ## Sobre ##
 
