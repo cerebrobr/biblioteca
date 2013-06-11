@@ -20,9 +20,43 @@ Aqui, estarão disponíveis links para estudos categorizados em tópicos.
 
 > ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
-===
 
+## File Structure ##
+
+  learning/
+	├── apis/
+	├── concepts/
+	├── databases/
+	├── frameworks/
+	│   ├── css/
+	│   ├── javascript/
+	│   ├── php/
+	│   ├── ruby/
+	│   ├── python/
+	│   └── sass/
+	├── git/
+	├── hostings/
+	├── languages/
+	│   ├── css/
+	│   ├── html/
+	│   ├── javascript/
+	│   ├── php/
+	│   ├── python/
+	│   └── ruby
+	├── mobile
+	├── pre-processors
+	├── tools
+	└── wordpress
+
+<br>
+<br>
+<br>
+===
+<br>
+<br>
+<br>
 ### TODO LIST
 
-1. Criar página no GitHub com o Jekyll
-2. Traduzir para Inglês
+1. Adicionar conteúdo
+2. Criar página no GitHub com o Jekyll
+3. Traduzir para Inglês
