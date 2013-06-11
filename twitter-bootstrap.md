@@ -1,4 +1,4 @@
-# Learning Bootstrap (CSS Framework from Twitter)
+# Learning Bootstrap (CSS Framework)
 
 ## Books
 
