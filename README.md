@@ -6,22 +6,22 @@ No começo, foi pensado um blog para que eu pudesse expor minhas opiniões, pont
 
 Sempre tive o hábito de testar novas ferramentas, a paixão por computadores começou aos 9 anos de idade e por programação aos 14. Essa paixão, e o desafio em solucionar os problemas, me trouxeram momentos de extrema felicidade. 
 
-Reservo um local na minha máquina e um sub-domínio, o qual entitulo de MyLabs, para este fim. Mas, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei a conclusão de que poderia unir: artigos, feedbacks, guias, documentos, experimentos e mais uma infinidade de coisas, em um só lugar. 
+Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei à conclusão de que poderia unir: artigos, *feedbacks*, guias, documentos, experimentos e mais uma infinidade de coisas, em um só lugar. 
 
 #### Eureka! GitHub! =]
 
-Então, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para os desenvolvedores web.
+Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para os desenvolvedores web.
 
 ***Faça o seu café, e vamos lá! =D***
 
 ## Sobre ##
 
-Neste espaço, vocês contam com links para estudos categorizados por tópicos.
+Neste espaço, você contará com links para estudos categorizados por tópicos.
 
 > ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
 
-## Estrutura dos Arquivos ##
+## Organização dos Arquivos ##
 
 ```
 	learning/
@@ -31,9 +31,9 @@ Neste espaço, vocês contam com links para estudos categorizados por tópicos.
 	├── frameworks/
 	│   ├── css/
 	│   ├── javascript/
+	│   ├── node/
 	│   ├── php/
 	│   ├── ruby/
-	│   ├── python/
 	│   └── sass/
 	├── git/
 	├── hostings/
