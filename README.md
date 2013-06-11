@@ -10,7 +10,7 @@ Reservo um local na minha máquina e um sub-domínio, o qual entitulo de MyLabs,
 
 #### Eureka! GitHub! =]
 
-Então, surge o projeto ***Coffee and Code***. Que vem a ser um espaço aberto aos colegas e amigos para comentarem e colaborarem.
+Então, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para os desenvolvedores web.
 
 ***Faça o seu café, e vamos lá! =D***
 
