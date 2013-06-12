@@ -5,8 +5,6 @@
 * [Frameworks](frameworks/)
 * [Pré-processadores](pre-processors)
 * [Gerenciadores de Conteúdo](cms/)
-* [Temas Atuais](concepts/)
-* [Hospedagens](hostings/)
 * [Cursos Online](online/)
 * [Ferramentas](tools/)
 
