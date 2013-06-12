@@ -37,7 +37,9 @@ Neste espaço, você contará com links para estudos categorizados por tópicos.
 
 ## Avisos Importantes ##
 
-* Esta lista está no seu estágio inicial. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados. Além disso, eu tento verificar se os artigos abaixo possuem conteúdo real e sólido para garantir uma informação adequada. Se você possui alguma idéia para uma melhor forma de organizar as categorias, por favor me avise.
+* Esta lista está no seu estágio inicial. Os conteúdos estão sendo atualizados gradativamente. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados.
+* Os artigos serão sempre verificados a fim de garantir uma informação sólida e real.
+* Se você possui alguma idéia para uma melhor forma de organizar as categorias, por favor me avise, deixando um comentário na *Issue* "Sugestões - Categorias".
 * Os links para os livros servem apenas para mostrá-los quais são recomendados para leitura. A preferência pela versão original ou traduzida, fica à seu critério. Caso, tenha uma opinião formada sobre algum dos livros listados, deixe um comentário na *Issue* "Sugestões e Críticas - Livros".
 * Apesar de termos um repositório totalmente em Português (Brasil), muito dos conteúdos aqui publicados, estão Inglês. Por isso, aconselho fortemente que, caso não tenha domínio na língua estrangeira acima, procure um curso e dominá-la. Na profissão de TI/Programação/Web, ela é obrigatória.
 
