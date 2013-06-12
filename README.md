@@ -41,7 +41,7 @@ Neste espaço, você contará com links para estudos categorizados por tópicos.
 * Os artigos serão sempre verificados a fim de garantir uma informação sólida e real.
 * Se você possui alguma idéia para uma melhor forma de organizar as categorias, por favor me avise, deixando um comentário na *Issue* "Sugestões - Categorias".
 * Os links para os livros servem apenas para mostrá-los quais são recomendados para leitura. A preferência pela versão original ou traduzida, fica à seu critério. Caso, tenha uma opinião formada sobre algum dos livros listados, deixe um comentário na *Issue* "Sugestões e Críticas - Livros".
-* Apesar de termos um repositório totalmente em Português (Brasil), muito dos conteúdos aqui publicados, estão Inglês. Por isso, aconselho fortemente que, caso não tenha domínio na língua estrangeira acima, procure um curso e dominá-la. Na profissão de TI/Programação/Web, ela é obrigatória.
+* Apesar de termos um repositório baseado no Português (Brasil), muito dos conteúdos publicados estão em Inglês. Por isso, aconselho fortemente que, caso não tenha domínio na língua estrangeira acima, procure um curso para dominá-la. Na profissão de TI/Programação/Web, ela é indispensável.
 
 
 ## Organização dos Arquivos ##
