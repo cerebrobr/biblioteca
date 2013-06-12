@@ -1,4 +1,4 @@
-# Aprendendo Mobile First
+# Mobile First
 
 ## Livros
 

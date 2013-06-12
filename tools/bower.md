@@ -2,6 +2,4 @@
 
 ## Videos
 
-## Suporte
-
-## Artigos
+## Fontes de Estudo

@@ -1,15 +1,19 @@
 # Aprendendo CSS
 
-## Livros
+## Livros e Guias
 
 * [CSS3](http://www.novatec.com.br/livros/css3/)
 * [Smashing CSS](http://www.livrariasaraiva.com.br/produto/3674334)
 * [Css Cookbook](http://www.novatec.com.br/livros/csscookbook/)
 * [Desenvolvendo CSS na Web](http://www.livrariasaraiva.com.br/produto/2217389)
 * [Guia de Consulta Rápida CSS](http://www.novatec.com.br/guias/css3/)
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
+* [SMACSS](http://smacss.com/)
+* [BEM](http://bem.info/method/)
 
 ## Videos
 
 ## Suporte
 
-## Artigos
+## Fonte de Estudo
+* [Css Tricks](http://css-tricks.com/)

@@ -1,9 +1,7 @@
 # Aprendendo Yeoman
 
-## Livros
-
 ## Videos
 
-## Suporte
+## Fontes de Estudo
 
 ## Artigos
