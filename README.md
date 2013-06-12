@@ -15,9 +15,7 @@
 
 Sabemos da grande influência do GitHub na vida dos desenvolvedores hoje em dia, e o ponto-chave é a colaboração.
 
-No começo, foi pensado um blog para que eu pudesse expor minhas opiniões, ponto de vista sobre recursos/ferramentas/tecnologias e disponibilizar meus experimentos.
-
-Sempre tive o hábito de testar novas ferramentas, a paixão por computadores começou aos 9 anos de idade e por programação aos 14. Essa paixão, e o desafio em solucionar os problemas, me trouxeram momentos de extrema felicidade.
+No começo, foi pensado um blog para que eu pudesse publicar minhas opiniões, dicas, ponto de vista sobre recursos/ferramentas/tecnologias e disponibilizar meus experimentos.
 
 Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei à conclusão de que poderia unir: artigos, *feedbacks*, guias, documentos, experimentos e mais uma infinidade de coisas, em um só lugar.
 
@@ -26,6 +24,7 @@ Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei 
 Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para todos nós, desenvolvedores web.
 
 ***Prepare o seu café, e bons estudos! =D***
+
 
 ## Sobre ##
 
