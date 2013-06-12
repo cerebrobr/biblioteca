@@ -1,14 +1,13 @@
 # Índice Geral
 
-* [Temas Atuais](concepts/)
-* [Api's](apis/)
-* [Gerenciadores de Conteúdo](cms/)
+* [Linguagens](languages/)
 * [Banco de Dados](databases/)
 * [Frameworks](frameworks/)
-* [Git](git/)
-* [Hospedagens](hostings/)
-* [Linguagens](languages/)
 * [Pré-processadores](pre-processors)
+* [Gerenciadores de Conteúdo](cms/)
+* [Temas Atuais](concepts/)
+* [Hospedagens](hostings/)
+* [Cursos Online](online/)
 * [Ferramentas](tools/)
 
 
@@ -24,13 +23,13 @@ Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei 
 
 #### Eureka! GitHub! =]
 
-Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para os desenvolvedores web.
+Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para todos nós, desenvolvedores web.
 
-***Faça o seu café, e bons estudos! =D***
+***Prepare o seu café, e bons estudos! =D***
 
 ## Sobre ##
 
-Neste espaço, você contará com links para estudos categorizados por tópicos.
+Neste espaço você contará com links para estudos, categorizados por tópicos.
 
 ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
