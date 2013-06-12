@@ -32,14 +32,13 @@ Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborat
 
 Neste espaço, você contará com links para estudos categorizados por tópicos.
 
-> ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
+***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
 
 > AVISOS IMPORTANTES:
+
 > 1. Esta lista está no seu estágio inicial. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados. Além disso, eu tento verificar se os artigos abaixo possuem conteúdo real e sólido para garantir uma informação adequada. Se você possui alguma idéia para uma melhor forma de organizar as categorias, por favor me avise.
->
 > 2. Os links para os livros servem apenas para mostrá-los quais são recomendados para leitura. A preferência pela versão original ou traduzida, fica à seu critério. Caso, tenha uma opinião formada sobre algum dos livros listados, deixe um comentário na *Issue* "Sugestões e Críticas - Livros".
->
 > 3. Apesar de termos um repositório totalmente em Português (Brasil), muito dos conteúdos aqui publicados, estão Inglês. Por isso, aconselho fortemente que, caso não tenha domínio na língua estrangeira acima, procure um curso e dominá-la. Na profissão de TI/Programação/Web, ela é obrigatória.
 
 
