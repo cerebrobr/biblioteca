@@ -1,9 +1,9 @@
-# Learning Yeoman
+# Aprendendo Yeoman
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

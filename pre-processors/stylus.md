@@ -1,9 +1,9 @@
-# Learning Stylus
+# Aprendendo Stylus
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

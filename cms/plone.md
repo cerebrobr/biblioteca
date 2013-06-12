@@ -1,14 +1,15 @@
-# Learning Plone
+# Aprendendo Plone
 
-Diversos links sobre Plone. 
+>Plone é um sistema de gerenciamento de conteúdo (CMS, de Content Management System) escrito na linguagem Python e que roda sobre um Servidor de Aplicações Zope e sobre o framework CMF (Content Management Framework).
 
-> Nota importante: Esta lista está no seu estágio inicial. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados. Além disso, eu tento verificar se os artigos abaixo possuem conteúdo real e sólido para garantir uma informação adequada. Se você possui alguma idéia para uma melhor forma de organizar as categorias, por favor me avise.
+>O Plone pode ser usado para a construção de portais de informação em intranets, extranets e na Internet. Pode ser usado também para construir sistemas de publicação de documentos ou até como ferramenta para trabalho colaborativo. O Plone roda em praticamente qualquer plataforma.
 
+>*Fonte: http://pt.wikipedia.org/wiki/Plone*
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

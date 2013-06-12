@@ -1,9 +1,7 @@
-# Learning DocPad
-
-## Books
+# Aprendendo DocPad
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

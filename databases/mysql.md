@@ -1,9 +1,9 @@
-# Learning MySQL
+# Aprendendo MySQL
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

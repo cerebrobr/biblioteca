@@ -1,9 +1,9 @@
-# Learning Mobile First
+# Aprendendo Mobile First
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

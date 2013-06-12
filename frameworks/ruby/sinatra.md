@@ -1,9 +1,9 @@
-# Learning Sinatra
+# Aprendendo Sinatra
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

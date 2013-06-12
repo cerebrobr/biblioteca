@@ -1,9 +1,7 @@
-# Learning Ruby Gems
-
-## Books
+# Aprendendo Ruby Gems
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

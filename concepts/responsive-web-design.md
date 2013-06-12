@@ -1,9 +1,9 @@
-# Learning Responsive Web Design
+# Aprendendo Responsive Web Design
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

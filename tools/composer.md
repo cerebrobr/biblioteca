@@ -1,9 +1,7 @@
-# Learning Composer
-
-## Books
+# Aprendendo Composer
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

@@ -1,9 +1,7 @@
-# Learning Bootstrap
-
-## Books
+# Aprendendo Bootstrap
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

@@ -1,9 +1,7 @@
-# Learning MiddleMan
-
-## Books
+# Aprendendo Middleman
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

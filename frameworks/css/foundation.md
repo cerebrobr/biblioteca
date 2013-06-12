@@ -1,9 +1,7 @@
-# Learning Foundation
-
-## Books
+# Aprendendo Foundation
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

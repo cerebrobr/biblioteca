@@ -8,20 +8,23 @@
 * [Git](git/)
 * [Hospedagens](hostings/)
 * [Linguagens](languages/)
-* [Mobile](mobile/)
 * [Pré-processadores](pre-processors)
 * [Ferramentas](tools/)
+
+> AVISO: Esta lista está no seu estágio inicial. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados. Além disso, eu tento verificar se os artigos abaixo possuem conteúdo real e sólido para garantir uma informação adequada. Se você possui alguma idéia para uma melhor forma de organizar as categorias, por favor me avise.
+
+> ATENÇÃO: Alem disso, apesar de termos um repositório totalmente em Português (Brasil), muito dos conteúdos aqui publicados, estão Inglês. Por isso, aconselho fortemente que, caso não tenha domínio na língua estrangeira acima, procure um curso e dominá-la, pois na profissão de TI/Programação/Web, ela é obrigatória.
 
 
 ## Coffee And Code Project ##
 
-Sabemos da grande influência do GitHub na vida dos desenvolvedores hoje em dia, e o ponto-chave é a colaboração. 
+Sabemos da grande influência do GitHub na vida dos desenvolvedores hoje em dia, e o ponto-chave é a colaboração.
 
-No começo, foi pensado um blog para que eu pudesse expor minhas opiniões, ponto de vista sobre recursos/ferramentas/tecnologias e disponibilizar meus experimentos. 
+No começo, foi pensado um blog para que eu pudesse expor minhas opiniões, ponto de vista sobre recursos/ferramentas/tecnologias e disponibilizar meus experimentos.
 
-Sempre tive o hábito de testar novas ferramentas, a paixão por computadores começou aos 9 anos de idade e por programação aos 14. Essa paixão, e o desafio em solucionar os problemas, me trouxeram momentos de extrema felicidade. 
+Sempre tive o hábito de testar novas ferramentas, a paixão por computadores começou aos 9 anos de idade e por programação aos 14. Essa paixão, e o desafio em solucionar os problemas, me trouxeram momentos de extrema felicidade.
 
-Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei à conclusão de que poderia unir: artigos, *feedbacks*, guias, documentos, experimentos e mais uma infinidade de coisas, em um só lugar. 
+Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei à conclusão de que poderia unir: artigos, *feedbacks*, guias, documentos, experimentos e mais uma infinidade de coisas, em um só lugar.
 
 #### Eureka! GitHub! =]
 
@@ -47,10 +50,11 @@ Neste espaço, você contará com links para estudos categorizados por tópicos.
 	├── frameworks/
 	│   ├── css/
 	│   ├── javascript/
-	│   ├── node/
+	│   ├── node-js/
 	│   ├── php/
 	│   ├── ruby/
-	│   └── sass/
+	│   ├── sass/
+	│   └── python/
 	├── git/
 	├── hostings/
 	├── languages/
@@ -59,8 +63,8 @@ Neste espaço, você contará com links para estudos categorizados por tópicos.
 	│   ├── javascript/
 	│   ├── php/
 	│   ├── python/
-	│   └── ruby
-	├── mobile
+	│   ├── ruby/
+	│   └── shell/
 	├── pre-processors
 	└── tools
 ```

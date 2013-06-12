@@ -1,9 +1,7 @@
-# Learning Grunt JS
-
-## Books
+# Aprendendo Grunt JS
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

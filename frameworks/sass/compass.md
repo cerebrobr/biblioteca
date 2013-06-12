@@ -1,9 +1,9 @@
-# Learning Compass
+# Aprendendo Compass
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

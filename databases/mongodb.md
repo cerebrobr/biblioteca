@@ -1,9 +1,9 @@
-# Learning Mongo DB
+# Aprendendo MongoDB
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

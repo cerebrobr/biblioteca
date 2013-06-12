@@ -1,9 +1,9 @@
-# Learning GIT
+# Aprendendo GIT
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

@@ -1,4 +1,4 @@
-# Aprendendo Zope
+# Aprendendo Shell
 
 ## Livros
 

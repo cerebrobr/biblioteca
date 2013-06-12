@@ -1,9 +1,9 @@
-# Learning Angular JS
+# Aprendendo Angular JS
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

@@ -1,9 +1,7 @@
-# Learning Gumby
-
-## Books
+# Aprendendo Gumby
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

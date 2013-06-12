@@ -1,9 +1,9 @@
-# Learning CakePHP
+# Aprendendo cakePHP
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

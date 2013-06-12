@@ -1,9 +1,9 @@
-# Learning Sass
+# Aprendendo Sass
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

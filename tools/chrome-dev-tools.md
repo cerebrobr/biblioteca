@@ -1,9 +1,7 @@
-# Learning Chrome Dev Tools
-
-## Books
+# Aprendendo Chrome Dev Tools
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

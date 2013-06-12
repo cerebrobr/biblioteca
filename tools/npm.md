@@ -1,9 +1,7 @@
-# Learning NPM
-
-## Books
+# Aprendendo NPM
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

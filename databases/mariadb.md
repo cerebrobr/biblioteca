@@ -1,9 +1,9 @@
-# Learning MariaDB
+# Aprendendo MariaDB
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

@@ -1,9 +1,9 @@
-# Learning Redis
+# Aprendendo Redis
 
-## Books
+## Livros
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

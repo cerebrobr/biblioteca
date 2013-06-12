@@ -1,9 +1,7 @@
-# Learning Jekyll
-
-## Books
+# Aprendendo JeKyll
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos

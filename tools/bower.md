@@ -1,9 +1,7 @@
-# Learning Bower
-
-## Books
+# Aprendendo Bower
 
 ## Videos
 
-## Helps
+## Suporte
 
-## General Topics
+## Artigos
