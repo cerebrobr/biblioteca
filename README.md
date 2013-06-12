@@ -46,20 +46,16 @@ Neste espaço você contará com links para estudos, categorizados por tópicos.
 
 ```
 	learning/
-	├── apis/
 	├── cms/
-	├── concepts/
 	├── databases/
 	├── frameworks/
 	│   ├── css/
 	│   ├── javascript/
 	│   ├── node-js/
 	│   ├── php/
+	│   ├── python/
 	│   ├── ruby/
-	│   ├── sass/
-	│   └── python/
-	├── git/
-	├── hostings/
+	│   └── sass/
 	├── languages/
 	│   ├── css/
 	│   ├── html/
@@ -68,6 +64,7 @@ Neste espaço você contará com links para estudos, categorizados por tópicos.
 	│   ├── python/
 	│   ├── ruby/
 	│   └── shell/
-	├── pre-processors
-	└── tools
+	├── online/
+	├── pre-processors/
+	└── tools/
 ```

@@ -1,3 +1,0 @@
-# Sumário
-
-* [Heroku](heroku.md)
