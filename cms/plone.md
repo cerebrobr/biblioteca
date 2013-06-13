@@ -7,9 +7,12 @@
 >*Fonte: http://pt.wikipedia.org/wiki/Plone*
 
 ## Livros
+###### Em atualização
 
 ## Videos
+###### Em atualização
 
 ## Suporte
+###### Em atualização
 
 ## Artigos

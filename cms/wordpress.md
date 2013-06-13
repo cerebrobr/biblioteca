@@ -5,9 +5,12 @@
 > *Fonte: http://br.wordpress.org/*
 
 ## Livros
+###### Em atualização
 
 ## Videos
+###### Em atualização
 
 ## Suporte
+###### Em atualização
 
 ## Artigos

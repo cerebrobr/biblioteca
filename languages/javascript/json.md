@@ -1,9 +1,9 @@
 # Aprendendo JSON
 
-## Livros
+> Documentação oficial: [http://www.json.org/](http://www.json.org/)
+
 
 ## Videos
 
-## Suporte
 
-## Artigos
+## Comunidade
