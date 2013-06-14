@@ -1,4 +1,4 @@
-# Aprendendo MongoDB
+# Aprendendo couchDB
 
 > Apache CouchDB, comumente referido como CouchDB, é um banco de dados de código-aberto que foca na facilidade de uso e na filosofia de ser "um banco de dados que abrange a Web". É um banco de dados não-relacional (NoSQL) que usa JSON para armazenar os dados, JavaScript como sua linguagem de consulta usando o MapReduce, e HTTP como API1 . Uma de suas características marcantes é a facilidade na replicação. CouchDB foi lançado em 2005, e em 2008 tornou-se um projeto da Apache Software Foundation.
 
