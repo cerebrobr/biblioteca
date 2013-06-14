@@ -1,19 +1,14 @@
 # Aprendendo jQuery
 
 ## Livros
-###### Em atualização
 
 ## Guias
-###### Em atualização
 
 ## Videos
-###### Em atualização
+* [Fundamentals for Great jQuery Development](http://www.youtube.com/watch?v=YcylSiDoOio)
 
-## Comunidade
-###### Em atualização
+## Comunidades
 
 ## Artigos
-###### Em atualização
 
 ## Newsletters
-###### Em atualização

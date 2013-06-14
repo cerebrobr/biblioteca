@@ -6,3 +6,4 @@
 * [PHP](php/)
 * [Python](python/)
 * [Ruby](ruby/)
+* [Shell](shell/)

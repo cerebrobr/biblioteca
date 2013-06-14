@@ -1,7 +1,7 @@
 # Aprendendo Middleman
 
+> Documentação oficial: [http://middlemanapp.com/getting-started/](http://middlemanapp.com/getting-started/)
+
 ## Videos
 
-## Fontes de Estudo
-
-## Artigos
+## Tópicos Gerais

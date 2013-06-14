@@ -11,17 +11,12 @@
 * [Larger Cover
 * [Building Node Applications with MongoDB and Backbone - Rapid Prototyping and Scalable Deployment](http://shop.oreilly.com/product/0636920026587.do)
 
-
 ## Guias
-
 
 ## Videos
 
-
-## Comunidade
-
+## Comunidades
 
 ## Artigos
-
 
 ## Newsletters

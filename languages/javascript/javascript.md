@@ -2,7 +2,6 @@
 
 > Documentação oficial: [http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
 
-
 ## Livros
 * [JavaScript - Guia do Programador](http://www.novatec.com.br/livros/javascriptguia/)
 * [Segredos do Ninja JavaScript](http://www.novatec.com.br/livros/ninja-javascript/)
@@ -15,12 +14,10 @@
 * [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do)
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do)
 
-
 ## Guias
 * [JS - The Right Way Documentation](http://jstherightway.com/)
 * [Idiomatic JS](https://github.com/rwldrn/idiomatic.js/)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
-
 
 ## Videos
 * [I .promise() to show you .when() to use Deferreds](http://www.youtube.com/watch?v=juRtEEsHI9E)
@@ -32,11 +29,9 @@
 * [The Web Can Do That!?](http://www.youtube.com/watch?v=X_ek1wSe66o)
 * [Pure JavaScript](http://vimeo.com/49384334)
 
-
-## Comunidade
+## Comunidades
 * [JavaScript Brasil](http://javascriptbrasil.com/)
 * [Brazil JS](http://braziljs.org/)
-
 
 ## Artigos
 * [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
@@ -66,6 +61,5 @@
 * [Methods of communication](http://html5doctor.com/methods-of-communication/)
 * [Components](http://tjholowaychuk.com/post/27984551477/components)
 * [JavaScript Dependency Injection](http://merrickchristensen.com/articles/javascript-dependency-injection.html)
-
 
 ## Newsletters

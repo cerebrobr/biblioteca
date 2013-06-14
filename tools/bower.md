@@ -1,5 +1,7 @@
 # Aprendendo Bower
 
+> Documentação oficial: [http://bower.io/](http://bower.io/)
+
 ## Videos
 
-## Fontes de Estudo
+## Tópicos Gerais

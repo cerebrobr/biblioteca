@@ -1,7 +1,7 @@
 # Aprendendo DocPad
 
+> Documentação oficial: [http://docpad.org/docs](http://docpad.org/docs)
+
 ## Videos
 
-## Fontes de Estudo
-
-## Artigos
+## Tópicos Gerais

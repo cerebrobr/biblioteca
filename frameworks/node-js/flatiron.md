@@ -1,3 +1,3 @@
 # Aprendendo Flatiron
 
-[Documentação oficial](http://flatironjs.org/)
+> Documentação oficial [http://flatironjs.org/](http://flatironjs.org/)

@@ -1,7 +1,7 @@
 # Aprendendo NPM
 
+> Documentação oficial: [https://npmjs.org/doc/](https://npmjs.org/doc/)
+
 ## Videos
 
-## Fontes de Estudo
-
-## Artigos
+## Tópicos Gerais

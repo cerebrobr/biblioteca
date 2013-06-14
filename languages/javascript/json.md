@@ -4,6 +4,6 @@
 
 
 ## Videos
+* [Douglas Crockford: The JSON Saga](http://www.youtube.com/watch?v=-C-JoyNuQJs)
 
-
-## Comunidade
+## Comunidades

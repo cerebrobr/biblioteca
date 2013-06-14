@@ -1,7 +1,7 @@
 # Aprendendo Composer
 
+> Documentação oficial: [http://getcomposer.org/](http://getcomposer.org/)
+
 ## Videos
 
-## Fontes de Estudo
-
-## Artigos
+## Tópicos Gerais

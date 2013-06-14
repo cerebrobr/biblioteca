@@ -4,13 +4,12 @@
 
 > O Refinery CMS suporta  Rails 3.2 e é difere de outros produtos similares, visando o usuário final não técnico e permitindo ao desenvolvedor criar um site flexível rapidamente por ficar tão perto quanto possível das convenções do framework Ruby on Rails.
 
-## Livros
-###### Em atualização
+<br>
+
+> Documentação oficial: [http://refinerycms.com/guides](http://refinerycms.com/guides)
 
 ## Videos
-###### Em atualização
 
-## Suporte
-###### Em atualização
+## Comunidades
 
 ## Artigos

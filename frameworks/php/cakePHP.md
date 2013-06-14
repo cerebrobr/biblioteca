@@ -4,6 +4,6 @@
 
 ## Videos
 
-## Suporte
+## Comunidades
 
 ## Artigos

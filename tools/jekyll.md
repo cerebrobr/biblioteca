@@ -1,7 +1,7 @@
 # Aprendendo JeKyll
 
+> Documentação oficial: [http://jekyllrb.com/docs/home/](http://jekyllrb.com/docs/home/)
+
 ## Videos
 
-## Fontes de Estudo
-
-## Artigos
+## Tópicos Gerais

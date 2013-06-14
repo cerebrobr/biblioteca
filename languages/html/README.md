@@ -4,8 +4,10 @@
 * [HTML5 - A linguagem de marcação que revolucionou a web](http://www.novatec.com.br/livros/html5/)
 * [HTML5 - Entendendo e Executando](http://www.livrariasaraiva.com.br/produto/3736644)
 * [Smashing HTML5: Técnicas para a Nova Geração da Web](http://www.submarino.com.br/produto/111165191/smashing-html5-tecnicas-para-a-nova-geracao-da-web-)
-* [Dive Into HTML5](http://diveintohtml5.com.br/index.html)
+
+## Guias
 * [HTML5 Guide - Tableless](http://tableless.com.br/html5/)
+* [Dive Into HTML5](http://diveintohtml5.com.br/index.html)
 
 ## Videos
 * [Learn About HTML5 and the Future of the Web](http://www.youtube.com/watch?v=EdDc7sWjCL4)
@@ -27,8 +29,10 @@
 * [HTML5 video accessibility and the WebVTT file format](http://www.youtube.com/watch?v=RoYvr-KXvLs)
 
 ## Cursos
+###### Em atualização
 
-## Suporte
+## Comunidade
+###### Em atualização
 
 ## Fonte de Estudo
 * [HTML5 Rocks](http://www.html5rocks.com)
