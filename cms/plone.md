@@ -20,7 +20,7 @@
 
 ## Videos
 
-## Comunidades
+## Comunidades / Suporte
 * [Plone Brasil](http://plone.org.br/)
 
 ## Artigos

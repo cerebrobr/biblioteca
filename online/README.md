@@ -8,7 +8,8 @@
 * [Udemy](http://udemy.com)
 * [Code](http://www.code.org/)
 
-## Casts
+## Videos
 * [Node.js e MongoDB O Casamento Perfeito](http://www.youtube.com/watch?v=-OpUd1Rov2c)
+* [Adventures in Single Page Applications](http://www.youtube.com/watch?v=BqDJqKGfIiE)
 
 > A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento. *(Platão)*

@@ -5,4 +5,6 @@
 ## Videos
 * [Yeoman Developer Preview](http://www.youtube.com/watch?v=4qFwYiVjooc)
 
+## Comunidades / Suporte
+
 ## Artigos

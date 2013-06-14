@@ -11,7 +11,15 @@
 ## Livros
 
 ## Videos
+* [Iniciando com MongoDB](http://www.youtube.com/watch?v=Ff4_DNKKPeo)
+* [MongoSP 2011](http://www.youtube.com/watch?v=grkJ2r3eS2Y&list=PL59D2C306E7F7E9FB)
 
-## Suporte
+## Comunidades / Suporte
+* [Grupo Facebook - MongoDB Brasil](https://www.facebook.com/groups/mongodbbrasil/)
+* [Meet Up - MongoDB São Paulo](http://www.meetup.com/SP-MongoDB/)
+* [Meet Up - MongoDB Rio Grande do Sul](http://www.meetup.com/Rio-Grande-do-Sul-MongoDB-User-Group/)
+* [Meet Up - MongoDB Santa Catarina](http://www.meetup.com/Santa-Catarina-MongoDB-User-Group/)
+* [FreeNode](http://webchat.freenode.net/?channels=mongodb)
+* [StackOverflow](http://stackoverflow.com/questions/tagged/mongodb)
 
 ## Artigos

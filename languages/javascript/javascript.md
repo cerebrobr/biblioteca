@@ -28,6 +28,8 @@
 * [mö.js - explaining js vm in js](http://www.youtube.com/watch?v=y8hVeKMD_oM)
 * [The Web Can Do That!?](http://www.youtube.com/watch?v=X_ek1wSe66o)
 * [Pure JavaScript](http://vimeo.com/49384334)
+* [Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
+* [JS Storage - 4º RioJS](http://www.youtube.com/watch?v=YnimlWo0Gw8)
 
 ## Comunidades
 * [JavaScript Brasil](http://javascriptbrasil.com/)

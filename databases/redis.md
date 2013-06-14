@@ -15,7 +15,7 @@
 
 ## Videos
 
-## Comunidades
+## Comunidades / Suporte
 [Redis Website](http://redis.io/community)
 
 ## Artigos

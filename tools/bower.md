@@ -12,7 +12,7 @@
 
 ## Videos
 
-## Comunidades
+## Comunidades / Suporte
 * [StackOverflow](http://stackoverflow.com/questions/tagged/bower)
 * [Google Groups](https://groups.google.com/forum/?fromgroups#!forum/twitter-bower)
 * [FreeNode](http://webchat.freenode.net/?channels=bower)

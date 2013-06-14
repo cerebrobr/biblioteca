@@ -12,6 +12,6 @@
 
 ## Videos
 
-## Comunidade
+## Comunidades / Suporte
 
 ## Artigos

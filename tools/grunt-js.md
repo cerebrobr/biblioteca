@@ -3,9 +3,9 @@
 > Documentação oficial: [http://gruntjs.com/getting-started](http://gruntjs.com/getting-started)
 
 ## Videos
-* [Paul Irish on Web Application Development Workflow](http://www.youtube.com/watch?v=vDbbz-BdyYc)
+* [Grunt JavaScript Automation for the Lazy Developer](http://www.youtube.com/watch?v=bntNYzCrzvE)
 
-## Comunidades
+## Comunidades / Suporte
 * [StackOverflow](http://stackoverflow.com/questions/tagged/gruntjs)
 * [FreeNode](http://webchat.freenode.net/?channels=grunt)
 
