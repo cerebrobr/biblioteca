@@ -14,6 +14,9 @@
 ## Guias
 
 ## Videos
+* [Node.js Infrastructure: Part 1](http://www.youtube.com/watch?v=ZRFh62EX2qM)
+* [Node.js Infrastructure: Part 2](http://www.youtube.com/watch?v=4g2TWPFuqqk)
+* [Node.js Events](http://www.youtube.com/watch?v=CoyIBRD6p5U)
 
 ## Comunidades
 

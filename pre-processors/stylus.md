@@ -1,7 +1,5 @@
 # Aprendendo Stylus
 
-## Livros
-
 ## Videos
 
 ## Comunidades
