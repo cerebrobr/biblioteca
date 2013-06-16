@@ -15,6 +15,7 @@
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do)
 
 ## Guias
+* [JavaScript Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [JS - The Right Way Documentation](http://jstherightway.com/)
 * [Idiomatic JS](https://github.com/rwldrn/idiomatic.js/)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
