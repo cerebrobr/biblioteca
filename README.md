@@ -19,14 +19,14 @@ Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei 
 
 #### Eureka! GitHub! =]
 
-Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para todos nós, desenvolvedores web.
+Assim surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para todos nós, desenvolvedores web.
 
 ***Prepare o seu café, e bons estudos! =D***
 
 
 ## Sobre ##
 
-Neste espaço você contará com links para estudos, categorizados por tópicos.
+Neste espaço você contará com links para estudos, organizados por categorias.
 
 ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
