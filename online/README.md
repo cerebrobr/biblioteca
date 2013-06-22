@@ -10,6 +10,7 @@
 * [10Gen Education](https://education.10gen.com/)
 * [Web Development Teaching Materials](http://www.teaching-materials.org/)
 * [Designer School](http://designer-school.com/)
+* [Peep Code](https://peepcode.com/)
 
 ## Videos
 * [Node.js e MongoDB O Casamento Perfeito](http://www.youtube.com/watch?v=-OpUd1Rov2c)
