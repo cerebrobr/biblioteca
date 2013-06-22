@@ -21,5 +21,6 @@
 ## Comunidades
 
 ## Artigos
+* [Compilando e Instalando Node.js](http://blog.glaucocustodio.com/2013/05/15/compilando-e-instalando-node-js/)
 
 ## Newsletters
