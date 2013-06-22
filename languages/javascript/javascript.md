@@ -18,7 +18,7 @@
 * [JavaScript Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [JS - The Right Way Documentation](http://jstherightway.com/)
 * [Idiomatic JS](https://github.com/rwldrn/idiomatic.js/)
-* [JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [JavaScript Styleguide](https://github.com/airbnb/javascript)
 
 ## Videos
 * [I .promise() to show you .when() to use Deferreds](http://www.youtube.com/watch?v=juRtEEsHI9E)

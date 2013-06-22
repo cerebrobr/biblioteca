@@ -12,6 +12,9 @@
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 * [SMACSS](http://smacss.com/)
 * [BEM](http://bem.info/method/)
+* [CSS Doc](http://cssdoc.net/)
+* [KSS - Knyle Style Sheets](http://warpspire.com/kss/)
+* [StyleDocco](http://jacobrask.github.io/styledocco/)
 
 ## Videos
 * [Learn about CSS Animations](http://www.youtube.com/watch?v=R8a9n1qSkng)
