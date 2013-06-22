@@ -17,6 +17,8 @@
 * [Node.js Infrastructure: Part 1](http://www.youtube.com/watch?v=ZRFh62EX2qM)
 * [Node.js Infrastructure: Part 2](http://www.youtube.com/watch?v=4g2TWPFuqqk)
 * [Node.js Events](http://www.youtube.com/watch?v=CoyIBRD6p5U)
+* [Node.js: JavaScript com Google V8 no servidor - Luciano Ramalho](https://www.youtube.com/watch?v=CrOq9MmI6jw)
+* [Build Podcast 044 Node](https://www.youtube.com/watch?v=nECThpIH7qc)
 
 ## Comunidades
 

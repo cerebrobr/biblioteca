@@ -9,6 +9,10 @@
 ## Videos
 * [Trabalhando com Backbone.js](http://www.youtube.com/watch?v=ySf85uOHehw)
 * [An Introduction to Backbone.js](http://www.youtube.com/watch?v=PcTVQyrWSSs)
+* [Understanding View Zombie Events in Backbone.JS](https://www.youtube.com/watch?v=hb8_IReoms8)
+* [Inversion of Control, The UI Thread and Backbone.JS Views](https://www.youtube.com/watch?v=mU1JcPikdMs)
+* [Build Podcast 042 BackboneJS](https://www.youtube.com/watch?v=cvbKGpl44T4)
+
 
 ## Comunidades
 

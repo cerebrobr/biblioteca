@@ -2,8 +2,10 @@
 
 
 ## Livros
+* [PYTHON E DJANGO - DESENVOLVIMENTO AGIL DE APLICAÇOES WEB](http://www.livrariacultura.com.br/Produto/LIVRO/PYTHON-E-DJANGO-DESENVOLVIMENTO-AGIL-DE/22315686)
 
 ## Videos
+* [Python e Django](http://osantana.me/pydjango/)
 
 ## Comunidades
 
