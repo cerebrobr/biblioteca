@@ -8,7 +8,7 @@
 ## Videos
 
 ## Comunidades
-* [Grupo Facebook](https://www.facebook.com/groups/rubyonrailsbrasil/)
+* [Grupo Facebook - Ruby on Rails Brasil](https://www.facebook.com/groups/rubyonrailsbrasil/)
 
 ## Artigos
 * [Passo a passo de como instalar o Ruby e o Rails no Unix(*)](https://github.com/danielvlopes/ruby-unix)
