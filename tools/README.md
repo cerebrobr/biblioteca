@@ -4,6 +4,7 @@
 * [Chrome Dev Tools](chrome-dev-tools.md)
 * [Composer](composer.md)
 * [DocPad](docpad.md)
+* [Git](git.md)
 * [Grunt JS](grunt-js.md)
 * [JeKyll](jekyll.md)
 * [Middle Man](middleman.md)
