@@ -1,6 +1,6 @@
 # Sumário
 
-* [Cake PHP](cake-php.md)
+* [Cake PHP](cakePHP.md)
 * [FuelPHP](fuelphp.md)
 * [Zend Framework](zend-framework.md)
 * [Symfony](symfony.md)
