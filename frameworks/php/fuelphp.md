@@ -1,12 +1,12 @@
-# Aprendendo Zend Framework
+# Aprendendo FuelPHP
 
-> FuelPHP È um framwork simples, flexÌvel, conduzido pela comunidade PHP5.3+, com base nas melhores idÈias de outras estruturas, com um novo comeÁo!
+> FuelPHP √© um framework simples, flex√≠vel e conduzido pela comunidade PHP5.3+, com base nas melhores ideias de outras estruturas, com um novo come√ßo!
 
 > *Fonte: [http://fuelphp.com/](http://fuelphp.com/)*
 
 <br>
 
-> DocumentaÁ„o Oficial: [http://fuelphp.com/docs/](http://fuelphp.com/docs/)
+> Documentac√£o Oficial: [http://fuelphp.com/docs/](http://fuelphp.com/docs/)
 
 ## Livros
 
