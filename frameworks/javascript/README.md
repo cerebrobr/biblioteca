@@ -5,3 +5,4 @@
 * [Ember](ember.md)
 * [Backbone](backbone.md)
 * [Meteor](meteor.md)
+* [Flight](flight.md)

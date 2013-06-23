@@ -1,7 +1,6 @@
 # Aprendendo CSS
 
 ## Livros
-
 * [CSS3](http://www.novatec.com.br/livros/css3/)
 * [Smashing CSS](http://www.livrariasaraiva.com.br/produto/3674334)
 * [Css Cookbook](http://www.novatec.com.br/livros/csscookbook/)
@@ -12,15 +11,19 @@
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 * [SMACSS](http://smacss.com/)
 * [BEM](http://bem.info/method/)
-* [CSS Doc](http://cssdoc.net/)
-* [KSS - Knyle Style Sheets](http://warpspire.com/kss/)
-* [StyleDocco](http://jacobrask.github.io/styledocco/)
 
 ## Videos
 * [Learn about CSS Animations](http://www.youtube.com/watch?v=R8a9n1qSkng)
 * [CSS3 - phpacademy](http://www.youtube.com/watch?v=n9Yw_4TrFt4&list=PL860319852CD11A5C)
 * [Bernard De Luna: Performance em CSS - BrazilJS 2012](http://www.youtube.com/watch?v=m1iV2C44Duc)
 
-## Comunidades
+## Comunidades / Suporte
 
 ## Artigos
+* [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+
+## Recursos
+* [csscss](http://zmoazeni.github.io/csscss/)
+* [CSS Doc](http://cssdoc.net/)
+* [KSS - Knyle Style Sheets](http://warpspire.com/kss/)
+* [StyleDocco](http://jacobrask.github.io/styledocco/)

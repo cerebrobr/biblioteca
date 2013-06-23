@@ -3,6 +3,7 @@
 > Documentação oficial: [https://developers.google.com/chrome-developer-tools/](https://developers.google.com/chrome-developer-tools/)
 
 ## Videos
+* [Tunando o Developer Tools do Google Chrome](http://www.youtube.com/watch?v=Mu6nnPN7W_s)
 
 ## Comunidades / Suporte
 

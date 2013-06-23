@@ -20,6 +20,7 @@
 * [Node.js: JavaScript com Google V8 no servidor - Luciano Ramalho](https://www.youtube.com/watch?v=CrOq9MmI6jw)
 * [Build Podcast 044 Node](https://www.youtube.com/watch?v=nECThpIH7qc)
 * [Node.JS: The Good Parts? A Skeptic's View](http://www.youtube.com/watch?v=CN0jTnSROsk)
+* [Node.js and You by Faisal Abid](http://www.youtube.com/watch?v=S2598bkySRA)
 
 ## Comunidades / Suporte
 
