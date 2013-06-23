@@ -41,3 +41,4 @@
 * [Using CSS Preprocessors With WordPress – What Are They?](http://wp.tutsplus.com/tutorials/theme-development/using-preprocessors-with-wordpress-what-are-they/)
 * [Using CSS Preprocessors With WordPress – LESS + CodeKit](http://wp.tutsplus.com/tutorials/theme-development/using-css-preprocessors-with-wordpress-less-codekit/)
 * [Using CSS Preprocessors With WordPress – LESS Structures](http://wp.tutsplus.com/tutorials/theme-development/using-css-preprocessors-with-wordpress-less-structures/)
+* [Creating Custom Fields for Attachments in WordPress](http://net.tutsplus.com/tutorials/wordpress/creating-custom-fields-for-attachments-in-wordpress/)
