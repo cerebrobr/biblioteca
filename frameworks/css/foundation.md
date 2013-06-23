@@ -8,6 +8,6 @@
 
 ## Videos
 
-## Comunidades
+## Comunidades / Suporte
 
 ## Artigos

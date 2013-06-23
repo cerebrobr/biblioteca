@@ -2,16 +2,16 @@
 
 * [Linguagens](languages/)
 * [Banco de Dados](databases/)
+* [Web Servers](web-servers/)
 * [Frameworks](frameworks/)
 * [Pré-processadores](pre-processors)
 * [Gerenciadores de Conteúdo](cms/)
-* [Cursos Online](online/)
 * [Ferramentas](tools/)
-* [Web Servers](web-servers/)
+* [Cursos Online](online/)
 
 ## Bem vindo! ##
 
-Sabemos da grande influência do GitHub na vida dos desenvolvedores hoje em dia, e o ponto-chave é a colaboração.
+Sabemos da grande influência do GitHub na vida dos desenvolvedores hoje em dia e o ponto-chave é a colaboração.
 
 No começo, foi pensado um blog para que eu pudesse publicar minhas opiniões, dicas, ponto de vista sobre recursos/ferramentas/tecnologias e disponibilizar meus experimentos.
 
@@ -21,7 +21,7 @@ Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei 
 
 Assim surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para todos nós, desenvolvedores web.
 
-***Prepare o seu café, e bons estudos! =D***
+***Prepare o seu café e bons estudos! =D***
 
 
 ## Sobre ##

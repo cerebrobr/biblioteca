@@ -14,7 +14,7 @@
 * [Build Podcast 042 BackboneJS](https://www.youtube.com/watch?v=cvbKGpl44T4)
 
 
-## Comunidades
+## Comunidades / Suporte
 
 ## Artigos
 * [Backbone.js Wine Cellar Tutorial Part 1](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/)

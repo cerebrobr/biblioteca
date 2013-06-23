@@ -21,7 +21,7 @@
 * [Build Podcast 044 Node](https://www.youtube.com/watch?v=nECThpIH7qc)
 * [Node.JS: The Good Parts? A Skeptic's View](http://www.youtube.com/watch?v=CN0jTnSROsk)
 
-## Comunidades
+## Comunidades / Suporte
 
 ## Artigos
 * [Compilando e Instalando Node.js](http://blog.glaucocustodio.com/2013/05/15/compilando-e-instalando-node-js/)

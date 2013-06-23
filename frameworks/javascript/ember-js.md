@@ -6,7 +6,7 @@
 * [Building Web Applications with Ember.js](http://www.youtube.com/watch?v=u6RFyVN9sNg)
 * [Ember Casts](http://www.embercasts.com/)
 
-## Comunidades
+## Comunidades / Suporte
 
 ## Artigos
 * [Ember Casts](http://www.embercasts.com/)

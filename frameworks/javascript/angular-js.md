@@ -10,6 +10,6 @@
 * [Frontend Workflows with Grunt and Angular JS](https://www.youtube.com/watch?v=fSAgFxjFSqY)
 * [AngularJS - MeetUp/PE](https://www.youtube.com/watch?feature=player_embedded&v=cQkvwbklKEE)
 
-## Comunidades
+## Comunidades / Suporte
 
 ## Artigos
