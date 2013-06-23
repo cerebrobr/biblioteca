@@ -24,3 +24,36 @@
 ### Comunidades / Suporte
 
 ### Artigos
+
+
+## Serve
+
+> Documentação oficial: [http://get-serve.com/documentation/](http://get-serve.com/documentation/)
+
+### Videos
+
+### Comunidades / Suporte
+
+### Artigos
+
+
+## Middleman
+
+> Documentação oficial: [http://middlemanapp.com/getting-started/](http://middlemanapp.com/getting-started/)
+
+### Videos
+
+### Comunidades / Suporte
+
+### Artigos
+
+
+## Nanoc
+
+> Documentação oficial: [http://nanoc.ws/docs/](http://nanoc.ws/docs/)
+
+### Videos
+
+### Comunidades / Suporte
+
+### Artigos
