@@ -1,5 +1,5 @@
 # Sumário
 
-* [Web Mobile](web-mobile/)
-* [Andoird](android/)
+* [Android](android/)
 * [iOS](ios/)
+* [Web Mobile](web-mobile/)
