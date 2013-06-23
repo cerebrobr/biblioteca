@@ -6,5 +6,6 @@
 * [JSON](json.md)
 * [jQuery](jquery.md)
 * [CoffeScript](coffeescript.md)
+* [Node JS](node-js.md)
 
 > Livros gratuitos em formato PDF(com alguns na versão rascunho): [http://jsbooks.revolunet.com/](http://jsbooks.revolunet.com/)
