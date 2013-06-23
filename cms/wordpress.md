@@ -24,7 +24,7 @@
 
 * [WordPress Brasil](https://groups.google.com/forum/#!forum/wordpress-brasil)
 * [Escola WP](http://www.escolawp.com/)
-* [Nettus WordPress](http://net.tutsplus.com/tutorials/wordpress/)
+* [WP Tuts+](http://wp.tutsplus.com/)
 
 ## Artigos
 
