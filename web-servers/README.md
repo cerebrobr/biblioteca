@@ -1,4 +1,4 @@
 # Sumário
 
 * [Apache](apache.md)
-* Ngnix
+* [Nginx](nginx.md)

@@ -11,6 +11,8 @@
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 * [SMACSS](http://smacss.com/)
 * [BEM](http://bem.info/method/)
+* [GitHub's CSS Performance](https://speakerdeck.com/jonrohan/githubs-css-performance)
+* [Better CSS Performance With Tools](https://dl.dropboxusercontent.com/u/39519/talks/cssperf-cssdevconf/#1)
 
 ## Videos
 * [Learn about CSS Animations](http://www.youtube.com/watch?v=R8a9n1qSkng)
@@ -21,6 +23,7 @@
 
 ## Artigos
 * [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+
 
 ## Recursos
 * [csscss](http://zmoazeni.github.io/csscss/)
