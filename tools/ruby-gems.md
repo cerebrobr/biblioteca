@@ -1,4 +1,4 @@
-# Aprendendo Ruby Gems
+# Sobre Ruby Gems
 
 > Documentação oficial: [http://guides.rubygems.org/](http://guides.rubygems.org/)
 
