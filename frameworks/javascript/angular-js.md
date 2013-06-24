@@ -1,5 +1,7 @@
 # Aprendendo Angular JS
 
+> Documentação oficial: [http://angularjs.org/](http://angularjs.org/)
+
 ## Livros
 
 ## Videos

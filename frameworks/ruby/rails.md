@@ -18,3 +18,5 @@
 * [Enviando Emails via STMP (Gmail) com Action Mailer do Rails – Formulário de Contato e Model sem Tabela](http://blog.glaucocustodio.com/2012/11/06/enviando-emails-via-stmp-do-gmail-com-action-mailer-do-ruby-on-rails-ex-de-formulario-de-contato-e-model-sem-tabela/)
 * [“Debugando” Aplicações Rails com Console do Firebug](http://blog.glaucocustodio.com/2012/11/19/debugando-aplicacoes-rails-com-console-do-firebug/)
 * [Adicionar Arquivos a Serem Compilados no Asset Pipeline](http://blog.glaucocustodio.com/2012/12/18/adicionar-arquivos-a-serem-compilados-no-asset-pipeline/)
+* [Mass Assignment, Rails, and You](http://net.tutsplus.com/tutorials/ruby/mass-assignment-rails-and-you/)
+* [Digging Into Rails 4](http://net.tutsplus.com/tutorials/ruby/digging-into-rails-4/)

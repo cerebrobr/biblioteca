@@ -24,7 +24,7 @@
 ### Comunidades / Suporte
 
 ### Artigos
-
+* [Building Static Sites with Jekyll](http://net.tutsplus.com/tutorials/other/building-static-sites-with-jekyll/)
 
 ## Serve
 

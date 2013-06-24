@@ -14,6 +14,10 @@
 ### Artigos
 * [Google Dev Tools CheatSheet](http://anti-code.com/devtools-cheatsheet/)
 * [Improving Web App Performance With the Chrome DevTools](http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
+* [Chrome Dev Tools: Markup and Style](http://net.tutsplus.com/tutorials/tools-and-tips/chrome-dev-tools-markup-and-style/)
+* [Chrome Dev Tools: Networking and the Console](http://net.tutsplus.com/tutorials/chrome-dev-tools-networking-and-the-console/)
+
+
 
 ## FireBug
 

@@ -14,3 +14,4 @@
 ## Comunidades
 
 ## Artigos
+* [Advanced Python Data Structures](http://net.tutsplus.com/tutorials/advanced-python-data-structures/)
