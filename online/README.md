@@ -60,7 +60,7 @@
 * [Bit Bucket](https://bitbucket.org/)
 * [Git Hub](https://github.com/)
 * [Koding](https://koding.com/#)
-* [Fiend Code](http://friendco.de/)
+* [Friend Code](http://friendco.de/)
 
 ## Snippets
 * [Snipplr](http://snipplr.com/)
