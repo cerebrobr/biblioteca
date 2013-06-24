@@ -17,5 +17,6 @@
 ## Comunidades
 
 ## Artigos
+* [Speeding up JavaScript: Working with the DOM](https://developers.google.com/speed/articles/javascript-dom)
 
 ## Newsletters

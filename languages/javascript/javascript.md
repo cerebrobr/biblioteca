@@ -37,6 +37,7 @@
 * [Brazil JS](http://braziljs.org/)
 
 ## Artigos
+* [Efficient JavaScript](http://dev.opera.com/articles/view/efficient-javascript/)
 * [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 * [Common JavaScript "Gotchas" ](http://www.jblotus.com/2013/01/13/common-javascript-gotchas/)
 * [Preparing Yourself for Modern JavaScript Development](http://www.codethinked.com/preparing-yourself-for-modern-javascript-development)

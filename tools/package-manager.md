@@ -1,4 +1,32 @@
-# Aprendendo Bower
+# Gerenciadores de Pacotes/dependências
+
+> Ferramentas para gerenciar/injetar bibliotecas, plugins e recursos no seu projeto.
+
+
+## NPM
+
+> Documentação oficial: [https://npmjs.org/doc/](https://npmjs.org/doc/)
+
+### Videos
+
+### Comunidades / Suporte
+
+### Artigos
+
+
+
+## Ruby Gems
+
+> Documentação oficial: [http://guides.rubygems.org/](http://guides.rubygems.org/)
+
+### Videos
+
+### Comunidades / Suporte
+
+### Artigos
+
+
+## Bower
 
 > Bower is a package manager for the web. It offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.
 
@@ -10,13 +38,24 @@
 
 > Documentação oficial: [http://bower.io/](http://bower.io/)
 
-## Videos
+### Videos
 * [Bower](https://www.youtube.com/watch?v=0XffYRF7-G0&feature=c4-overview&playnext=1&list=TL3_9Fgkj4JDk)
 * [Build Podcast 045 Bower](https://www.youtube.com/watch?v=W-PwIDcfYkY)
 
-## Comunidades / Suporte
+### Comunidades / Suporte
 * [StackOverflow](http://stackoverflow.com/questions/tagged/bower)
 * [Google Groups](https://groups.google.com/forum/?fromgroups#!forum/twitter-bower)
 * [FreeNode](http://webchat.freenode.net/?channels=bower)
+
+### Artigos
+
+
+# Composer
+
+> Documentação oficial: [http://getcomposer.org/](http://getcomposer.org/)
+
+## Videos
+
+## Comunidades / Suporte
 
 ## Artigos

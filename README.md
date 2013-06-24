@@ -8,7 +8,7 @@
 * [Gerenciadores de Conteúdo](cms/)
 * [Mobile](mobile/)
 * [Ferramentas](tools/)
-* [Cursos Online](online/)
+* [Espaço Online](online/)
 
 ## Bem vindo! ##
 
