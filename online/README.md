@@ -16,8 +16,8 @@
 * [Peep Code](https://peepcode.com/)
 
 ## Casts
-[Zone of Front-Enders](http://zofe.com.br/)
-[DevCast](http://devcastbrasil.com/)
+* [Zone of Front-Enders](http://zofe.com.br/)
+* [DevCast](http://devcastbrasil.com/)
 
 ## Leitura Diária
 * [JavaScript Brasil](http://javascriptbrasil.com/)
