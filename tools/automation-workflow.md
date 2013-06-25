@@ -23,7 +23,7 @@
 * [Grunt: você deveria estar usando!](http://tableless.com.br/grunt-voce-deveria-estar-usando/#.UbqFChXwJ-Y)
 * [GruntJS – Por onde começar?](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 * [Meet Grunt: The Build Tool for JavaScript](http://net.tutsplus.com/tutorials/javascript-ajax/meeting-grunt-the-build-tool-for-javascript/)
-
+* [Advanced Grunt tooling](http://chrisawren.com/posts/Advanced-Grunt-tooling)
 
 ## Yeoman
 
