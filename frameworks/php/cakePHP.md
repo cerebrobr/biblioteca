@@ -3,6 +3,8 @@
 ## Livros
 
 ## Videos
+* [DevCast - 10 - CakePHP - Introdução](http://www.youtube.com/watch?v=lepcm7VRL8w)
+* [DevCast - 11 - CakePHP CRUD e Validações](http://www.youtube.com/watch?v=GZ5zehI2bg4)
 
 ## Comunidades
 
