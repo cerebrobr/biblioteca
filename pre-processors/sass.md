@@ -12,3 +12,4 @@
 ## Comunidades
 
 ## Artigos
+* [Thoughts For Better Variable Organization In SASS](http://www.vanseodesign.com/css/variable-organization-in-sass/)

@@ -48,7 +48,7 @@
 * [FreeNode](http://webchat.freenode.net/?channels=bower)
 
 ### Artigos
-
+* [Meet Bower: A Package Manager For The Web](http://net.tutsplus.com/tutorials/tools-and-tips/meet-bower-a-package-manager-for-the-web/)
 
 # Composer
 

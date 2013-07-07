@@ -8,6 +8,8 @@
 ## Guias
 * [HTML5 Guide - Tableless](http://tableless.com.br/html5/)
 * [Dive Into HTML5](http://diveintohtml5.com.br/index.html)
+* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+
 
 ## Videos
 * [Learn About HTML5 and the Future of the Web](http://www.youtube.com/watch?v=EdDc7sWjCL4)
@@ -28,12 +30,8 @@
 * [HTML5 Video Full Throttle](http://www.youtube.com/watch?v=FDYjHrpg5Lc)
 * [HTML5 video accessibility and the WebVTT file format](http://www.youtube.com/watch?v=RoYvr-KXvLs)
 
+## Artigos
+
 ## Cursos
-###### Em atualização
 
 ## Comunidade
-###### Em atualização
-
-## Fonte de Estudo
-* [HTML5 Rocks](http://www.html5rocks.com)
-* [HTML5 Doctor](http://html5doctor.com/)
