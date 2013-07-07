@@ -8,6 +8,7 @@
 * [Code School](http://www.codeschool.com)
 * [Code Tag](http://codetag.me)
 * [Learn Layout](http://learnlayout.com/)
+* [Hack Design](http://hackdesign.org/)
 * [Udemy](http://udemy.com)
 * [Code](http://www.code.org/)
 * [10Gen Education](https://education.10gen.com/)
