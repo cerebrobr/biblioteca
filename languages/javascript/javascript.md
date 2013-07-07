@@ -65,5 +65,6 @@
 * [Methods of communication](http://html5doctor.com/methods-of-communication/)
 * [Components](http://tjholowaychuk.com/post/27984551477/components)
 * [JavaScript Dependency Injection](http://merrickchristensen.com/articles/javascript-dependency-injection.html)
+* [Add Rules to Stylesheets with JavaScript](http://davidwalsh.name/add-rules-stylesheets)
 
 ## Newsletters
