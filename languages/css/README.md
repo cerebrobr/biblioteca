@@ -23,10 +23,5 @@
 
 ## Artigos
 * [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+* [Understanding em Units in CSS](http://www.impressivewebs.com/understanding-em-units-css/)
 
-
-## Recursos
-* [csscss](http://zmoazeni.github.io/csscss/)
-* [CSS Doc](http://cssdoc.net/)
-* [KSS - Knyle Style Sheets](http://warpspire.com/kss/)
-* [StyleDocco](http://jacobrask.github.io/styledocco/)

@@ -14,6 +14,7 @@
 * [Web Development Teaching Materials](http://www.teaching-materials.org/)
 * [Designer School](http://designer-school.com/)
 * [Peep Code](https://peepcode.com/)
+*[Developing in HTML5 with JavaScript and CSS3 Jump Start](http://www.microsoftvirtualacademy.com/training-courses/learn-html5-with-javascript-css3-jumpstart-training)
 
 ## Casts
 * [Zone of Front-Enders](http://zofe.com.br/)

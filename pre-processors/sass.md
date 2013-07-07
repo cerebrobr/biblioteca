@@ -13,3 +13,4 @@
 
 ## Artigos
 * [Thoughts For Better Variable Organization In SASS](http://www.vanseodesign.com/css/variable-organization-in-sass/)
+* [](https://speakerdeck.com/anotheruiguy/clean-out-your-sass-junk-drawer)
