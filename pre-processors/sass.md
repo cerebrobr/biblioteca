@@ -13,4 +13,8 @@
 
 ## Artigos
 * [Thoughts For Better Variable Organization In SASS](http://www.vanseodesign.com/css/variable-organization-in-sass/)
-* [](https://speakerdeck.com/anotheruiguy/clean-out-your-sass-junk-drawer)
+* [Clean out your Sass Junk-Drawer](https://speakerdeck.com/anotheruiguy/clean-out-your-sass-junk-drawer)
+* [Faster Sass debugging and style iteration with source maps, Chrome Web Developer Tools and Grunt](http://benfrain.com/add-sass-compass-debug-info-for-chrome-web-developer-tools/)
+* [Getting started with CSS sourcemaps and in-browser Sass editing](https://medium.com/what-i-learned-building/b4daab987fb0)
+* [DEBUGGING SASS WITH SOURCE MAPS](http://snugug.com/musings/debugging-sass-source-maps)
+* [Looking Into the Future of Sass](http://davidwalsh.name/future-sass)

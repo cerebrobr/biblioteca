@@ -18,6 +18,7 @@
 * [Learn about CSS Animations](http://www.youtube.com/watch?v=R8a9n1qSkng)
 * [CSS3 - phpacademy](http://www.youtube.com/watch?v=n9Yw_4TrFt4&list=PL860319852CD11A5C)
 * [Bernard De Luna: Performance em CSS - BrazilJS 2012](http://www.youtube.com/watch?v=m1iV2C44Duc)
+* [Screencast: visão geral de SMACSS](http://www.fititnt.org/frontend/screencast-smacss-scalable-and-modular-architecture-for-css.html)
 
 ## Comunidades / Suporte
 
