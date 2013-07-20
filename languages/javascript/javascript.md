@@ -15,10 +15,13 @@
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do)
 
 ## Guias
-* [JavaScript Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [JS - The Right Way Documentation](http://jstherightway.com/)
+* [JavaScript Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [JavaScript Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [JavaScript Styleguide - GitHub](https://github.com/airbnb/javascript)
 * [Idiomatic JS](https://github.com/rwldrn/idiomatic.js/)
-* [JavaScript Styleguide](https://github.com/airbnb/javascript)
+* [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden)
 
 ## Videos
 * [I .promise() to show you .when() to use Deferreds](http://www.youtube.com/watch?v=juRtEEsHI9E)

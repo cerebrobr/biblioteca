@@ -12,6 +12,7 @@
 * [Building Node Applications with MongoDB and Backbone - Rapid Prototyping and Scalable Deployment](http://shop.oreilly.com/product/0636920026587.do)
 
 ## Guias
+* [A arte do Node](https://github.com/fth-ship/art-of-node)
 
 ## Videos
 * [Node.js Infrastructure: Part 1](http://www.youtube.com/watch?v=ZRFh62EX2qM)
@@ -25,7 +26,6 @@
 ## Comunidades / Suporte
 
 ## Artigos
-* [A arte do Node](https://github.com/fth-ship/art-of-node)
 * [Compilando e Instalando Node.js](http://blog.glaucocustodio.com/2013/05/15/compilando-e-instalando-node-js/)
 * [Node.js Events](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-events/)
 

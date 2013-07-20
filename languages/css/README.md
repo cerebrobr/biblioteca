@@ -10,7 +10,9 @@
 ## Guias
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 * [SMACSS](http://smacss.com/)
-* [BEM](http://bem.info/method/)
+* [BEM](http://bem.info/)
+* [DRY CSS](http://www.vanseodesign.com/css/dry-principles/)
+* [OOCSS](https://github.com/stubbornella/oocss/wiki)
 * [GitHub's CSS Performance](https://speakerdeck.com/jonrohan/githubs-css-performance)
 * [Better CSS Performance With Tools](https://dl.dropboxusercontent.com/u/39519/talks/cssperf-cssdevconf/#1)
 

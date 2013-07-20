@@ -3,6 +3,7 @@
 > Diversos links interessantes para aprimorar o seu aprendizado, ajudar no seu networking e tornar mais prático o seu fluxo de trabalho.
 
 ## Cursos
+* [Coddingonweekend](http://codingonweekend.com.br/)
 * [Code Squad](http://code-squad.com/)
 * [Code Academy](http://www.codecademy.com/)
 * [Code School](http://www.codeschool.com)
@@ -15,7 +16,7 @@
 * [Web Development Teaching Materials](http://www.teaching-materials.org/)
 * [Designer School](http://designer-school.com/)
 * [Peep Code](https://peepcode.com/)
-*[Developing in HTML5 with JavaScript and CSS3 Jump Start](http://www.microsoftvirtualacademy.com/training-courses/learn-html5-with-javascript-css3-jumpstart-training)
+* [Developing in HTML5 with JavaScript and CSS3 Jump Start](http://www.microsoftvirtualacademy.com/training-courses/learn-html5-with-javascript-css3-jumpstart-training)
 
 ## Casts
 * [Zone of Front-Enders](http://zofe.com.br/)
