@@ -40,6 +40,7 @@
 * [Brazil JS](http://braziljs.org/)
 
 ## Artigos
+* [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
 * [Efficient JavaScript](http://dev.opera.com/articles/view/efficient-javascript/)
 * [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 * [Common JavaScript "Gotchas" ](http://www.jblotus.com/2013/01/13/common-javascript-gotchas/)
