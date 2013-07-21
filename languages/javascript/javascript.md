@@ -41,6 +41,8 @@
 
 ## Artigos
 * [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
+* [Orientação a Objetos em Javascript – Função Construtora](http://wbruno.com.br/javascript-puro/afinal-como-e-orientacao-a-objetos-em-javascript-exemplos/)
+* [Orientação a Objetos em Javascript – Função Construtora](http://wbruno.com.br/javascript-puro/orientacao-a-objetos-em-javascript-funcao-construtora/)
 * [Efficient JavaScript](http://dev.opera.com/articles/view/efficient-javascript/)
 * [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 * [Common JavaScript "Gotchas" ](http://www.jblotus.com/2013/01/13/common-javascript-gotchas/)
@@ -71,5 +73,3 @@
 * [JavaScript Dependency Injection](http://merrickchristensen.com/articles/javascript-dependency-injection.html)
 * [Add Rules to Stylesheets with JavaScript](http://davidwalsh.name/add-rules-stylesheets)
 * [Required JavaScript Reading](http://hub.tutsplus.com/tutorials/required-javascript-reading--net-33131)
-
-## Newsletters

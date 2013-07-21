@@ -28,5 +28,3 @@
 ## Artigos
 * [Compilando e Instalando Node.js](http://blog.glaucocustodio.com/2013/05/15/compilando-e-instalando-node-js/)
 * [Node.js Events](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-events/)
-
-## Newsletters

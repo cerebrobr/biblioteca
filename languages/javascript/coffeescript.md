@@ -13,5 +13,4 @@
 ## Comunidades
 
 ## Artigos
-
-## Newsletters
+[Entendendo CoffeeScript](http://zenorocha.com/entendendo-coffeescript/)

@@ -11,5 +11,3 @@
 ## Comunidades
 
 ## Artigos
-
-## Newsletters
