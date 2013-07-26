@@ -1,7 +1,7 @@
 # Sumário
 
-* [Angular](angular.md)
-* [Ember](ember.md)
-* [Backbone](backbone.md)
+* [Angular](angular-js.md)
+* [Ember](ember-js.md)
+* [Backbone](backbone-js.md)
 * [Meteor](meteor.md)
 * [Flight](flight.md)
