@@ -66,5 +66,5 @@
 * [Components](http://tjholowaychuk.com/post/27984551477/components)
 * [JavaScript Dependency Injection](http://merrickchristensen.com/articles/javascript-dependency-injection.html)
 * [Add Rules to Stylesheets with JavaScript](http://davidwalsh.name/add-rules-stylesheets)
-
+* [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
 ## Newsletters
