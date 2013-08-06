@@ -18,3 +18,4 @@
 * [Getting started with CSS sourcemaps and in-browser Sass editing](https://medium.com/what-i-learned-building/b4daab987fb0)
 * [Debugging Sass with Source Maps](http://snugug.com/musings/debugging-sass-source-maps)
 * [Looking Into the Future of Sass](http://davidwalsh.name/future-sass)
+* [Developing With Sass and Chrome DevTools](http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/)
