@@ -4,6 +4,7 @@
 
 ## Videos
 * [Stylus - the most CSS-like higher level language](http://vimeo.com/33462524)
+
 ## Comunidades
 
 ## Artigos
