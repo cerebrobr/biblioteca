@@ -1,7 +1,7 @@
 # Aprendendo PHP
 
 ## Livros
-
+[PHP Programando com Orientação a Objetos](https://www.novatec.com.br/livros/phpobj/)
 
 ## Guias
 * [PHP - The Right Way Documentation](http://www.phptherightway.com/)
