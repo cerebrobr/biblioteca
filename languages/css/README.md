@@ -29,3 +29,4 @@
 * [Understanding em Units in CSS](http://www.impressivewebs.com/understanding-em-units-css/)
 * [Designing CSS Layouts With Flexbox Is As Easy As Pie](http://coding.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/)
 * [Starting to Write CSS](http://davidwalsh.name/starting-css)
+* [Função CSS calc()](http://www.maujor.com/tutorial/css3-funcao-css-calc.php)

@@ -1,0 +1,16 @@
+# Cursos
+
+* [Coddingonweekend](http://codingonweekend.com.br/)
+* [Code Squad](http://code-squad.com/)
+* [Code Academy](http://www.codecademy.com/)
+* [Code School](http://www.codeschool.com)
+* [Code Tag](http://codetag.me)
+* [Learn Layout](http://learnlayout.com/)
+* [Hack Design](http://hackdesign.org/)
+* [Udemy](http://udemy.com)
+* [Code](http://www.code.org/)
+* [10Gen Education](https://education.10gen.com/)
+* [Web Development Teaching Materials](http://www.teaching-materials.org/)
+* [Designer School](http://designer-school.com/)
+* [Peep Code](https://peepcode.com/)
+* [Developing in HTML5 with JavaScript and CSS3 Jump Start](http://www.microsoftvirtualacademy.com/training-courses/learn-html5-with-javascript-css3-jumpstart-training)

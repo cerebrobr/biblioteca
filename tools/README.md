@@ -1,8 +1,11 @@
-# Sumário
+# Automação e Fluxo de Trabalho
 
-* [Controle de versão](version-control.md)
-* [Gerenciadores de Pacotes](package-manager.md)
-* [Automação e Fluxo de trabalho](automation-workflow.md)
-* [Inspeção e Otimização](inspect-debug-optimize.md)
-* [Geradores Estáticos](static-generators.md)
-* [Ferramentas para Deploy](deploy.md)
+> Ferramentas para aumentar a produtividade e eficiência no seu Workflow.
+
+## Sumário
+
+* [DevTools](devtools.md)
+* [Git](git.md)
+* [Grunt](grunt.md)
+* [Vagrant](vagrant.md)
+* [Yeoman](yeoman.md)

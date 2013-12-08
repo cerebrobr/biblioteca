@@ -1,4 +1,4 @@
-# Controle de Versão
+# Aprendendo Git
 
 > Ferramentas para controle de versão do seu projeto.
 
