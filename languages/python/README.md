@@ -14,8 +14,8 @@
 * [TDD em Python](http://www.youtube.com/watch?v=aySfDCPaqUI)
 
 ## Comunidades
-[Grupo Facebook Python Brasil](https://www.facebook.com/groups/python.brasil/?fref=ts)
-[Grupo Facebook GruPy-RN](https://www.facebook.com/groups/461954343836302/)
+*[Grupo Facebook Python Brasil](https://www.facebook.com/groups/python.brasil/?fref=ts)
+*[Grupo Facebook GruPy-RN](https://www.facebook.com/groups/461954343836302/)
 
 
 ## Artigos
