@@ -4,11 +4,15 @@
 
 ## Livros
 * [PYTHON E DJANGO - DESENVOLVIMENTO AGIL DE APLICAÇOES WEB](http://www.livrariacultura.com.br/Produto/LIVRO/PYTHON-E-DJANGO-DESENVOLVIMENTO-AGIL-DE/22315686)
+* 
 
 ## Videos
 * [Curso de Python e Django - video aulas (Portugues)](http://osantana.me/pydjango/)
+* [Curso de Django : Welcome to the Django - video aulas (Portugues)] (http://welcometothedjango.com.br//)
 
 ## Comunidades
+
+* [Comunidade brasileira de Django ](http://www.djangobrasil.org/)
 
 ## Artigos
 * [Começando com Django – Instalando e Rodando no Linux](http://blog.glaucocustodio.com/2013/01/10/comecando-com-django-instalando-e-rodando-no-linux/)
@@ -17,3 +21,4 @@
 * [Getting started with django](http://gettingstartedwithdjango.com/)
 * [Apredendo django](http://www.aprendendodjango.com/)
 * [Django stack para iniciantes em django](http://imasters.com.br/artigo/10729/django/djangostack-facil-para-o-iniciante-aprender-django/)
+* [Escrevendo sua primeira aplicação com Django](http://docs.djangobrasil.org/intro/tutorial01.html/)
