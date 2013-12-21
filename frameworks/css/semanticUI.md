@@ -7,7 +7,7 @@
 ## Videos
 
 ## Comunidades / Suporte
-* [Github](https://github.com/Semantic-Org/Semantic-UI/)
+* [Github semantic UI](https://github.com/Semantic-Org/Semantic-UI/)
 
 ## Artigos
 
