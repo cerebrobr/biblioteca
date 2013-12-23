@@ -7,4 +7,4 @@
 * [Refinery](refinery.md)
 * [Plone](plone.md)
 * [OpenCart](opencart.md)
-* * [Ghost](ghost.md)
+* [Ghost](ghost.md)
