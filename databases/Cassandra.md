@@ -3,7 +3,7 @@
 > Apache Cassandra é um projeto de sistema de banco de dados distribuído altamente escalável de segunda geração, que reúne a arquitetura do Dynamo, da Amazon e modelo de dados baseado no BigTable, do Google.
 O Cassandra inicialmente foi criado pelo Facebook, que abriu seu código-fonte para a comunidade em 2008. Agora é mantido por desenvolvedores da fundação Apache e colaboradores de muitas empresas.
 
-> *Fonte: [http://pt.wikipedia.org/wiki/CouchDB](http://pt.wikipedia.org/wiki/Apache_Cassandra)*
+> *Fonte: [http://pt.wikipedia.org/wiki/Apache_Cassandra](http://pt.wikipedia.org/wiki/Apache_Cassandra/)*
 
 <br>
 
@@ -17,10 +17,10 @@ O Cassandra inicialmente foi criado pelo Facebook, que abriu seu código-fonte p
 
 ## Comunidades / Suporte
 
-*[http://planetcassandra.org/](http://planetcassandra.org/)
+* [http://planetcassandra.org/](http://planetcassandra.org/)
 
 ## Artigos
 
-*[Creating your first NodeJS app with Cassandra](http://devdazed.com/2012/12/19/creating-your-first-nodejs-app-with-cassandra//)
-*[Modeling data in Cassandra](http://blog.safaribooksonline.com/2012/12/11/modeling-data-in-cassandra/)
-*[Introduction to Cassandra DB](http://blog.safaribooksonline.com/2012/12/11/one-big-table-apache-cassandra/)
+* [Creating your first NodeJS app with Cassandra](http://devdazed.com/2012/12/19/creating-your-first-nodejs-app-with-cassandra//)
+* [Modeling data in Cassandra](http://blog.safaribooksonline.com/2012/12/11/modeling-data-in-cassandra/)
+* [Introduction to Cassandra DB](http://blog.safaribooksonline.com/2012/12/11/one-big-table-apache-cassandra/)
