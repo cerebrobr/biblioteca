@@ -6,3 +6,4 @@
 * [Composer](composer.md)
 * [NPM](npm.md)
 * [Ruby Gems](rubygems.md)
+* [Pip](pip.md)
