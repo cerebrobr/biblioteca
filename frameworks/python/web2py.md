@@ -7,17 +7,17 @@ Web2py é um framework web de open-souce com foco em desenvolvimento ágil e com
 
 ## Livros
 
-[web2py manual ]  (http://www.livrariacultura.com.br/Produto/LIVRO/WEB2PY-MANUAL/22118707)
-[WEB2PY APPLICATION DEVELOPMENT COOKBOOK ] (http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=30704329&sid=89695113315121640294706518/)
+* [web2py manual ]  (http://www.livrariacultura.com.br/Produto/LIVRO/WEB2PY-MANUAL/22118707)
+* [WEB2PY APPLICATION DEVELOPMENT COOKBOOK ] (http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=30704329&sid=89695113315121640294706518/)
 
 ## Videos
 
-[web2py videos] (http://www.web2py.com/examples/default/videos/)
+* [web2py videos] (http://www.web2py.com/examples/default/videos/)
 
 ## Comunidades
 
-[web2py users (google groups) ] (https://groups.google.com/forum/#!forum/web2py/)
-[Comunidade brasileira] (http://web2pybrasil.appspot.com/init/plugin_wiki/page/home/)
+* [web2py users (google groups) ] (https://groups.google.com/forum/#!forum/web2py/)
+* [Comunidade brasileira] (http://web2pybrasil.appspot.com/init/plugin_wiki/page/home/)
 
 ## Artigos
 
