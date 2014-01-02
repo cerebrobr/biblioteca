@@ -2,7 +2,7 @@ Bottle é um framework web rápido e leve desenvolvido em python
 
 # Aprendendo Bottle
 
-> Documentação oficial: (http://bottlepy.org/docs/dev/)
+> Documentação oficial: [http://bottlepy.org/docs/dev/] (http://bottlepy.org/docs/dev/)
 
 ## Livros
 
