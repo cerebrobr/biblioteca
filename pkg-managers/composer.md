@@ -1,9 +1,9 @@
-# Composer
+## Composer
 
 > Documentação oficial: [http://getcomposer.org/](http://getcomposer.org/)
 
-## Videos
+### Videos
 
-## Comunidades / Suporte
+### Comunidades / Suporte
 
-## Artigos
+### Artigos

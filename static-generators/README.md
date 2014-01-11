@@ -7,5 +7,5 @@
 * [DocPad](docpad.md)
 * [Jekyll](jekyll.md)
 * [Hexo](hexo.md)
-* [Serve](serve.md)
+* [Cabin](cabin.md)
 * [Middleman](middleman.md)

@@ -1,8 +1,14 @@
 # Sumário
 
-* [HTML](html/)
+* [C](/c)
 * [CSS](css/)
+* [Dart](dart/)
+* [Go](go/)
+* [Haskell](haskell/)
+* [HTML](html/)
 * [JavaScript](javascript/)
+* [Lua](lua/)
+* [Perl](perl/)
 * [PHP](php/)
 * [Python](python/)
 * [Ruby](ruby/)
