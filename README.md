@@ -10,7 +10,7 @@
 * [Ferramentas](tools/)
 * [Espaço Online](online/)
 
-## Bem vindo! ##
+## Bem vindo!
 
 Sabemos da grande influência do GitHub na vida dos desenvolvedores hoje em dia e o ponto-chave é a colaboração.
 
@@ -25,14 +25,14 @@ Assim surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborati
 ***Prepare o seu café e bons estudos! =D***
 
 
-## Sobre ##
+## Sobre
 
 Neste espaço você contará com links para estudos, organizados por categorias.
 
 ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
 
-## Avisos Importantes ##
+## Avisos Importantes
 
 * Os conteúdos estão sendo atualizados gradativamente. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados.
 * Os artigos serão sempre verificados a fim de garantir uma informação sólida e real.
@@ -45,30 +45,48 @@ Neste espaço você contará com links para estudos, organizados por categorias.
 
 ```
 	learning/
+    │
 	├── cms/
 	├── databases/
+    ├── deploy/
+    │
 	├── frameworks/
 	│   ├── css/
 	│   ├── javascript/
+    │   ├── mobile/
 	│   ├── node-js/
 	│   ├── php/
 	│   ├── python/
 	│   ├── ruby/
 	│   └── sass/
+    │
 	├── languages/
-	│   ├── css/
+	│   ├── c/
+    │   ├── css/
+    │   ├── dart/
+    │   ├── erlang/
+    │   ├── go/
+    │   ├── haskell/
 	│   ├── html/
 	│   ├── javascript/
+    │   ├── lua/
+    │   ├── perl/
 	│   ├── php/
 	│   ├── python/
 	│   ├── ruby/
 	│   └── shell/
-	├── online/
+    │
 	├── mobile/
+    │
+    ├── online/
 	│   ├── android/
 	│   ├── ios/
 	│   └── web-mobile/
+    │
+    ├── pkg-managers/
 	├── pre-processors/
+    ├── static-generator/
+    ├── task-runner/
 	├── tools/
 	└── web servers/
 ```
