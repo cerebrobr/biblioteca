@@ -12,6 +12,8 @@
 
 ## Videos
 
+* [Introdução Bower](http://www.youtube.com/watch?v=0XffYRF7-G0)
+
 ## Comunidades / Suporte
 * [StackOverflow](http://stackoverflow.com/questions/tagged/bower)
 * [Google Groups](https://groups.google.com/forum/?fromgroups#!forum/twitter-bower)
