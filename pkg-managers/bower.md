@@ -14,7 +14,8 @@
 * [Bower](https://www.youtube.com/watch?v=0XffYRF7-G0&feature=c4-overview&playnext=1&list=TL3_9Fgkj4JDk)
 * [Build Podcast 045 Bower](https://www.youtube.com/watch?v=W-PwIDcfYkY)
 
-### Comunidades / Suporte
+## Comunidades / Suporte
+* [Introdução Bower](http://www.youtube.com/watch?v=0XffYRF7-G0)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/bower)
 * [Google Groups](https://groups.google.com/forum/?fromgroups#!forum/twitter-bower)
 * [FreeNode](http://webchat.freenode.net/?channels=bower)
