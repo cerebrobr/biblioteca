@@ -2,13 +2,17 @@
 
 * [Linguagens](languages/)
 * [Banco de Dados](databases/)
-* [Web Servers](web-servers/)
 * [Frameworks](frameworks/)
 * [Pré-processadores](pre-processors)
+* [Geradores Estáticos](static-generators/)
+* [Automação de Tarefas](task-runner/)
+* [Gerenciamento de Dependências](pkg-managers/)
 * [Gerenciadores de Conteúdo](cms/)
 * [Mobile](mobile/)
 * [Ferramentas](tools/)
 * [Espaço Online](online/)
+* [Web Servers](web-servers/)
+* [Deploy](deploy/)
 
 ## Bem vindo!
 
