@@ -6,6 +6,3 @@
 
 * [DocPad](docpad.md)
 * [Jekyll](jekyll.md)
-* [Hexo](hexo.md)
-* [Cabin](cabin.md)
-* [Middleman](middleman.md)
