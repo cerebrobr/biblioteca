@@ -1,6 +1,6 @@
 # Gulp JS
 
-> Documentação oficial:
+> Documentação oficial: [http://gulpjs.com/](http://gulpjs.com/)
 
 ## Videos
 

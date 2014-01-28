@@ -4,7 +4,5 @@
 
 ## Sumário
 
-* [Automaton](automaton.md)
-* [Brunch](brunch.md)
 * [Grunt](grunt.md)
 * [Gulp](gulp.md)
