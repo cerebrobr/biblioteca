@@ -1,6 +1,7 @@
 # Aprendendo Ruby on Rails
 
-> Documentação oficial: [http://www.rubyonrails.com.br/documentacao](http://www.rubyonrails.com.br/documentacao)
+> Documentação oficial: [http://rubyonrails.org/documentation](http://rubyonrails.org/documentation)
+> Tradução: [http://www.rubyonrails.com.br/documentacao](http://www.rubyonrails.com.br/documentacao)
 
 ## Livros
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.pro.br/)

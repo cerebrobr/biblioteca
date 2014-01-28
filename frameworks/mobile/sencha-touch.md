@@ -1,6 +1,6 @@
 # Aprendendo Sencha Touch
 
-> Documentação oficial: [http://expressjs.com/](http://expressjs.com/)
+> Documentação oficial: [http://docs.sencha.com/touch/2.3.1/#](http://docs.sencha.com/touch/2.3.1/#)
 
 ## Videos
 

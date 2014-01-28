@@ -1,6 +1,11 @@
 # Aprendendo Sinatra
 
+> Documentação oficial: [http://www.sinatrarb.com/documentation.html](http://www.sinatrarb.com/documentation.html)
+> Tradução: [https://github.com/sinatra/sinatra/blob/master/README.pt-br.md](https://github.com/sinatra/sinatra/blob/master/README.pt-br.md)
+
 ## Livros
+
+* [Sinatra Book](https://github.com/sinatra/sinatra-book)
 
 ## Videos
 

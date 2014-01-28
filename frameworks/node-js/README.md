@@ -1,6 +1,6 @@
 # Sumário
 
 * [Express](express.md)
-* [Socket.io](socket-io.md)
+* [Koa](koa.md)
 * [Flatiron](flatiron.md)
 * [Geddy](geddy.md)

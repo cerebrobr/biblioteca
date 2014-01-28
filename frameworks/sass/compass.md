@@ -1,5 +1,7 @@
 # Aprendendo Compass
 
+> Documentação oficial: [http://compass-style.org/](http://compass-style.org/)
+
 ## Livros
 
 ## Videos
