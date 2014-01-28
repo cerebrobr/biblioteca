@@ -15,6 +15,7 @@
 * [Grupo Facebook - GIT Brasil](https://www.facebook.com/groups/gitbrasil/)
 
 ### Artigos
+* [Manter repositório do Github forkado sincronizado com o original](http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
 * [Git Flow Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Git Flow cheatsheet - (Português)](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
 * [Git Nosso de Cada Dia (Git Cheatsheet)](http://blog.glaucocustodio.com/2013/03/06/git-nosso-de-cada-dia-git-cheatsheet/)
