@@ -8,6 +8,7 @@
 * [Automação de Tarefas](task-runner/)
 * [Gerenciamento de Dependências](pkg-managers/)
 * [Gerenciadores de Conteúdo](cms/)
+* [Loja Virtual](e-commerce/)
 * [Mobile](mobile/)
 * [Ferramentas](tools/)
 * [Espaço Online](online/)
