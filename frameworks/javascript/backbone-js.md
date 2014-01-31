@@ -16,6 +16,7 @@
 ## Comunidades / Suporte
 
 ## Artigos
+- [Backbone.js Tips And Patterns](http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/)
 - [Backbone.js Wine Cellar Tutorial Part 1](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/)
 - [Backbone.js Wine Cellar Tutorial Part 2](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/)
 - [Make Backbone Better With Extensions](http://net.tutsplus.com/tutorials/javascript-ajax/make-backbone-better-with-extensions/)
