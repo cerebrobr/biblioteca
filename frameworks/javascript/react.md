@@ -1,6 +1,6 @@
 # Aprendendo React JS
 
-> Documentação oficial: [http://facebook.github.io/react/docs/getting-started.html](http://facebook.github.io/react/docs/getting-started.html/)
+> Documentação oficial: [http://facebook.github.io/react/docs/getting-started.html](http://facebook.github.io/react/)
 
 ## Livros 
 
@@ -18,6 +18,6 @@
 * [Intro to the React Framework](http://net.tutsplus.com/tutorials/javascript-ajax/intro-to-the-react-framework/?search_index=1/)
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
 * [A Look at Facebook's React](http://dailyjs.com/2013/08/15/react/)
-* [Unit Testing React.js With Jasmine and Karma](http://myshareoftech.com/2013/12/unit-testing-react-dot-js-with-jasmine-and-karma.html/)
+* [Unit Testing React.js With Jasmine and Karma](http://myshareoftech.com/2013/12/unit-testing-react-dot-js-with-jasmine-and-karma.html)
 
 
