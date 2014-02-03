@@ -14,11 +14,11 @@
 * [What's New in Knockout.js 3.0](http://www.youtube.com/watch?v=kep19WW7rp8/)
 * [Knockout.js Tutorial](http://www.youtube.com/watch?v=AQbdDLweGxQ/)
 
-## Comunidade/suporte
+## Comunidade/Suporte
 
 * [Knockoutjs community](https://geekli.st/community/knockoutjs/)
 
-## artigos 
+## Artigos 
 
 * [Into the Ring with Knockout.js](http://net.tutsplus.com/sessions/into-the-ring-with-knockout-js/?search_index=1)
 * [Knockout Succinctly](http://net.tutsplus.com/sessions/knockout-succinctly/?search_index=2/)
