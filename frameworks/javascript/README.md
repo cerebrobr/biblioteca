@@ -7,3 +7,4 @@
 * [Flight](flight.md)
 * [Knockout](knockout.md)
 * [React](react.md)
+* [CanJS](CanJS.md)
