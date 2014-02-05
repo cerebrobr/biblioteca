@@ -21,6 +21,7 @@
 * [Build Podcast 044 Node](https://www.youtube.com/watch?v=nECThpIH7qc)
 * [Node.JS: The Good Parts? A Skeptic's View](http://www.youtube.com/watch?v=CN0jTnSROsk)
 * [Node.js and You by Faisal Abid](http://www.youtube.com/watch?v=S2598bkySRA)
+* [Node.js: JavaScript com Google V8 no servidor](http://www.youtube.com/watch?v=B0hc7hmpCD4/)
 
 ## Comunidades / Suporte
 
