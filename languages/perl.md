@@ -1,7 +1,5 @@
 # Aprendendo Perl
 
-> Documentação oficial:
-
 ## Livros
 
 ## Guias

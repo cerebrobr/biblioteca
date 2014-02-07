@@ -1,7 +1,5 @@
 # Aprendendo Lua
 
-> Documentação oficial:
-
 ## Livros
 
 ## Guias

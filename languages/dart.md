@@ -1,7 +1,5 @@
 # Aprendendo Dart
 
-> Documentação oficial:
-
 ## Livros
 
 ## Guias

@@ -1,7 +1,5 @@
 # Aprendendo Erlang
 
-> Documentação oficial:
-
 ## Livros
 
 ## Guias
@@ -11,3 +9,4 @@
 ## Comunidades / Suporte
 
 ## Artigos
+- [Running Erlang on Mac OS X](http://rudamoura.com/erlang-on-mac.html)

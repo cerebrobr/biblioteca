@@ -1,7 +1,5 @@
 # Aprendendo Haskell
 
-> Documentação oficial:
-
 ## Livros
 
 ## Guias

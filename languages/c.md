@@ -1,7 +1,5 @@
 # Aprendendo C
 
-> Documentação oficial:
-
 ## Livros
 
 ## Guias

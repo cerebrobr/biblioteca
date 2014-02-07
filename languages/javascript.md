@@ -22,6 +22,15 @@
 - [Idiomatic JS](https://github.com/rwldrn/idiomatic.js/)
 - [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden)
+- [HTML5Rocks - ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
+- [Promises JS](http://www.promisejs.org/)
+- [Promises/A+](http://promisesaplus.com/)
+
+## Blogs
+- [ECMA-262](http://dmitrysoshnikov.com/)
+- [Perfection Kills](http://perfectionkills.com/)
+- [②ality – JavaScript and more](http://www.2ality.com/)
+- [JavaScript, JavaScript...](https://javascriptweblog.wordpress.com/)
 
 ## Videos
 - [I .promise() to show you .when() to use Deferreds](http://www.youtube.com/watch?v=juRtEEsHI9E)
@@ -40,9 +49,6 @@
 - [Brazil JS](http://braziljs.org/)
 
 ## Artigos
-- [HTML5Rocks - ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
-- [Promises JS](http://www.promisejs.org/)
-- [Promises/A+](http://promisesaplus.com/)
 - [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
 - [Afinal, como é Orientação a Objetos em JavaScript?](http://wbruno.com.br/javascript-puro/afinal-como-e-orientacao-a-objetos-em-javascript-exemplos/)
 - [Orientação a Objetos em Javascript – Função Construtora](http://wbruno.com.br/javascript-puro/orientacao-a-objetos-em-javascript-funcao-construtora/)
