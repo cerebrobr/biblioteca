@@ -19,3 +19,5 @@ Ghost é uma plataforma para blogs simples e leve desenvolvida com node js.
 [Adding Ghost Template Tags and Markup] (http://webdesign.tutsplus.com/tutorials/cms-tutorials/adding-ghost-template-tags-and-markup/?search_index=6/)
 
 [Styling Our Ghost Theme With LESS](http://webdesign.tutsplus.com/tutorials/cms-tutorials/styling-our-ghost-theme-with-less/?search_index=8/)
+
+[Running Ghost Forever](http://blog.christophvoigt.com/running-ghost-forever/)
