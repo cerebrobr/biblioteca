@@ -3,6 +3,7 @@
 ## Livros
 
 ## Guias
+- [Learn you some Erlang](http://learnyousomeerlang.com/content)
 
 ## Videos
 
