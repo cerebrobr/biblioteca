@@ -3,6 +3,8 @@
 > Documentação oficial: [http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
 
 ## Livros
+- [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
+- [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [JavaScript - Guia do Programador](http://www.novatec.com.br/livros/javascriptguia/)
 - [Segredos do Ninja JavaScript](http://www.novatec.com.br/livros/ninja-javascript/)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -27,6 +29,14 @@
 - [Promises/A+](http://promisesaplus.com/)
 
 ## Blogs
+- [Infoq](http://www.infoq.com/br/javascript/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
+- [bbenvie](http://bbenvie.com/)
+- [blog.jcoglan](https://blog.jcoglan.com/)
+- [addyosmani](http://addyosmani.com/blog/)
+- [paulirish](http://www.paulirish.com/)
+- [javascriptweblog](http://javascriptweblog.wordpress.com/)
+- [joezimjs](http://www.joezimjs.com/)
+- [javascriptissexy](http://javascriptissexy.com/)
 - [ECMA-262](http://dmitrysoshnikov.com/)
 - [Perfection Kills](http://perfectionkills.com/)
 - [②ality – JavaScript and more](http://www.2ality.com/)
@@ -47,6 +57,7 @@
 ## Comunidades
 - [JavaScript Brasil](http://javascriptbrasil.com/)
 - [Brazil JS](http://braziljs.org/)
+- [Jquery Brasil](https://www.facebook.com/groups/jquerybrasil/)
 
 ## Artigos
 - [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
