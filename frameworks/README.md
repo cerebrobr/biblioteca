@@ -7,4 +7,4 @@
 * [Python](python/)
 * [Ruby](ruby/)
 * [Mobile](mobile/)
-* [SASS](sass/)
+* [Sass](sass/)
