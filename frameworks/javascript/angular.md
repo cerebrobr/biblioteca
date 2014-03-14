@@ -14,6 +14,7 @@
 * [Frontend Workflows with Grunt and Angular JS](https://www.youtube.com/watch?v=fSAgFxjFSqY)
 * [AngularJS - MeetUp/PE](https://www.youtube.com/watch?feature=player_embedded&v=cQkvwbklKEE)
 * [AngularJS Testing](http://yearofmoo-articles.github.io/angularjs-testing-article/app/#!/videos)
+* [Angular with Browserify - Ben Clinkinbeard](http://www.youtube.com/watch?v=NTPutZ99XWY)
 
 ## Comunidades / Suporte
 
@@ -57,3 +58,18 @@
 * [CSRF token security with angularjs](http://thomas.rabaix.net/blog/2013/05/csrf-token-security-with-angularjs)
 * [Building a web app from scratch in AngularJS](http://net.tutsplus.com/tutorials/javascript-ajax/building-a-web-app-from-scratch-in-angularjs/)
 * [A better ay to learn AngularJS](http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
+* [Sharing AngularJS modules with component.js](http://www.jayway.com/2013/06/04/sharing-angularjs-modules-with-component-js/)
+* [AngularJS, Browserify and Grunt](http://dontkry.com/posts/code/angular-browserify-grunt.html)
+* [Browserify angularjs - Short intro to modular angularjs](https://medium.com/the-javascript-collection/db3425548f4c)
+*
+*
+*
+
+
+
+
+
+
+
+
+
