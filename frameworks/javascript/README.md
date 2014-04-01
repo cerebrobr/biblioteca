@@ -1,10 +1,10 @@
 # Sumário
 
-* [Angular](angular-js.md)
-* [Ember](ember-js.md)
-* [Backbone](backbone-js.md)
-* [Meteor](meteor.md)
-* [Flight](flight.md)
-* [Knockout](knockout.md)
-* [React](react.md)
-* [CanJS](CanJS.md)
+- [Angular](angular-js.md)
+- [Ember](ember-js.md)
+- [Backbone](backbone-js.md)
+- [Meteor](meteor.md)
+- [Flight](flight.md)
+- [Knockout](knockout.md)
+- [React](react.md)
+- [CanJS](CanJS.md)
