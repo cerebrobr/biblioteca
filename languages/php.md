@@ -5,7 +5,13 @@
 
 ## Guias
 - [PHP - The Right Way Documentation](http://www.phptherightway.com/)
+- [PHP - Do Jeito Certo](http://br.phptherightway.com/)
 - [PHP Manual](http://www.php.net/manual/en/index.php)
+
+## Frameworks
+- [Laravel](http://laravel.com/)
+- [Zend Framework](http://framework.zend.com/)
+- [Symfony](http://symfony.com/)
 
 ## Videos
 
@@ -19,3 +25,6 @@
 - [Cadastro de Vídeos do YouTube com PHP](http://blog.glaucocustodio.com/2012/08/11/cadastro-de-videos-do-youtube-com-php/)
 - [Manipulando imagens com PHP](http://blog.thiagobelem.net/manipulando-imagens-no-php/)
 - [Usando Namespaces no PHP](http://blog.thiagobelem.net/usando-namespaces-no-php/)
+
+## Certificações
+- [PHP e Zend Framework](http://www.zend.com/en/services/certification/)
