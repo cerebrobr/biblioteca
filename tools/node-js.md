@@ -41,3 +41,7 @@
 - [Export This](http://bites.goodeggs.com/posts/export-this/)
 - [Learn NodeJS completely and with confidence](http://www.javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
 - [Node.js Events and EventEmitter](http://www.sitepoint.com/nodejs-events-and-eventemitter/)
+- [How to decide when to use Node.js?](http://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js) - Leitura essencial! :)
+- [How To Build A CLI Tool With Node.js And PhantomJS](http://www.smashingmagazine.com/2014/02/12/build-cli-tool-nodejs-phantomjs/)
+- [Command Line Utilities with Node.js](http://shapeshed.com/command-line-utilities-with-nodejs/)
+- [Master the CLI with Node](http://michaelbrooks.ca/deck/jsconf2013/#/)
