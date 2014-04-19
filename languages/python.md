@@ -2,6 +2,7 @@
 
 ## Livros
 - [PYTHON E DJANGO - DESENVOLVIMENTO AGIL DE APLICAÇOES WEB](http://www.livrariacultura.com.br/Produto/LIVRO/PYTHON-E-DJANGO-DESENVOLVIMENTO-AGIL-DE/22315686)
+- [Python para Desenvolvedores](http://ricardoduarte.github.io/python-para-desenvolvedores/)
 
 > Livros gratuitos em formato PDF na versão rascunho: [http://pythonbooks.revolunet.com/](http://pythonbooks.revolunet.com/)
 
