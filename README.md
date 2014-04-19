@@ -1,19 +1,21 @@
 # Índice Geral
 
-* [Linguagens](languages/)
-* [Banco de Dados](databases/)
-* [Frameworks](frameworks/)
-* [Pré-processadores](pre-processors)
-* [Geradores Estáticos](static-generators/)
-* [Automação de Tarefas](task-runner/)
-* [Gerenciamento de Dependências](pkg-managers/)
-* [Gerenciadores de Conteúdo](cms/)
-* [Loja Virtual](e-commerce/)
-* [Mobile](mobile/)
-* [Ferramentas](tools/)
-* [Espaço Online](online/)
-* [Web Servers](web-servers/)
-* [Deploy](deploy/)
+- [Linguagens](languages/)
+- [Banco de Dados](databases/)
+- [Frameworks](frameworks/)
+- [Pré-processadores](pre-processors)
+- [Geradores Estáticos](static-generators/)
+- [Automação de Tarefas](task-runner/)
+- [Gerenciamento de Dependências](pkg-managers/)
+- [Gerenciadores de Conteúdo](cms/)
+- [Loja Virtual](e-commerce/)
+- [Mobile](mobile/)
+- [Ferramentas](tools/)
+- [Espaço Online](online/)
+- [Web Servers](web-servers/)
+- [Deploy](deploy/)
+- [OS](os/)
+
 
 ## Bem vindo!
 
@@ -30,23 +32,7 @@ Assim surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborati
 ***Prepare o seu café e bons estudos! =D***
 
 
-## Sobre
-
-Neste espaço você contará com links para estudos, organizados por categorias.
-
-***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
-
-
-## Avisos Importantes
-
-* Os conteúdos estão sendo atualizados gradativamente. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados.
-* Os artigos serão sempre verificados a fim de garantir uma informação sólida e real.
-* Se você possui alguma idéia para uma melhor forma de organizar as categorias, por favor me avise, deixando um comentário na *Issue* "Sugestões - Categorias".
-* Os links para os livros servem apenas para mostrá-los quais são recomendados para leitura. A preferência pela versão original ou traduzida, fica à seu critério. Caso, tenha uma opinião formada sobre algum dos livros listados, deixe um comentário na *Issue* "Sugestões e Críticas - Livros".
-* Apesar de termos um repositório baseado no Português (Brasil), muito dos conteúdos publicados estão em Inglês. Por isso, aconselho fortemente que, caso não tenha domínio na língua estrangeira acima, procure um curso para dominá-la. Na profissão de TI/Programação/Web, ela é indispensável.
-
-
-## Organização dos Arquivos ##
+## Estrutura
 
 ```
 	learning/
@@ -88,6 +74,7 @@ Neste espaço você contará com links para estudos, organizados por categorias.
 	│   ├── ios/
 	│   └── web-mobile/
     │
+    ├── os/
     ├── pkg-managers/
 	├── pre-processors/
     ├── static-generator/
@@ -95,3 +82,15 @@ Neste espaço você contará com links para estudos, organizados por categorias.
 	├── tools/
 	└── web servers/
 ```
+
+
+## Avisos e Contribuições
+
+- Os conteúdos estão sendo atualizados gradativamente. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados.
+- Os artigos serão sempre verificados a fim de garantir uma informação sólida e real.
+- Se você possui alguma idéia para uma melhor forma de organizar as categorias, deixe um comentário nesta [*Issue*](https://github.com/CoffeeAndCodeProject/learning/issues/3).
+- Os links para os livros servem apenas para mostrar quais são recomendados para leitura. A preferência pela versão original ou traduzida, fica à seu critério. Caso tenha uma opinião formada sobre algum dos livros listados, deixe um comentário nesta [**Issue**](https://github.com/CoffeeAndCodeProject/learning/issues/2).
+- Apesar de termos um repositório baseado no Português (Brasil), muito dos conteúdos publicados estão em Inglês. Por isso, aconselho fortemente que, caso não tenha domínio na língua estrangeira acima, procure um curso para dominá-la. Na profissão de TI/Programação/Web, ela é indispensável.
+- Os _commits_ devem possuir mensagens em **português**.
+
+***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
