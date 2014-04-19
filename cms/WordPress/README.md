@@ -1,12 +1,10 @@
 # Aprendendo WordPress
 
-> O WordPress é uma plataforma semântica de vanguarda para publicação pessoal, com foco na estética, nos Padrões Web e na usabilidade. O WordPress é ao mesmo tempo um software livre e gratuito. Em outras palavras, o WordPress é o que você usa quando você quer trabalhar e não lutar com seu software de publicação de blogs.
-
-> *Fonte: [http://br.wordpress.org/](http://br.wordpress.org/)*
+> O WordPress é um gerenciador de conteúdo de código livre e gratuito, com foco na estética, nos padrões web e na usabilidade. Com o WordPress é possível gerenciar o conteúdo do seu site/ blog através de uma interface simples e intuitiva.
 
 <br>
 
-> Documentação oficial: [http://codex.wordpress.org/](http://codex.wordpress.org/)
+Documentação oficial: [http://codex.wordpress.org/](http://codex.wordpress.org/)
 
 ## Livros
 * [WordPress 3 Complete](http://www.packtpub.com/wordpress-3-complete/book)
