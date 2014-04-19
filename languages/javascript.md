@@ -93,3 +93,11 @@
 - [JavaScript Dependency Injection](http://merrickchristensen.com/articles/javascript-dependency-injection.html)
 - [Add Rules to Stylesheets with JavaScript](http://davidwalsh.name/add-rules-stylesheets)
 - [Required JavaScript Reading](http://hub.tutsplus.com/tutorials/required-javascript-reading--net-33131)
+
+**ES6 - Harmony**
+
+- [ES6 Plans](https://wiki.mozilla.org/ES6_plans)
+- [ES6/ES5 Compatibility table](http://kangax.github.io/es5-compat-table/es6/)
+- [ES6 Tools](https://github.com/addyosmani/es6-tools)
+- [ES6 Language Features](https://github.com/google/traceur-compiler/wiki/LanguageFeatures)
+- [Author In ES6, Transpile To ES5 As A Build-step: A Workflow For Grunt](http://addyosmani.com/blog/author-in-es6-transpile-to-es5-as-a-build-step-a-workflow-for-grunt/) - HOT! :)
