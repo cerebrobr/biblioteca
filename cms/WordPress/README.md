@@ -25,6 +25,11 @@
 * [WordPress Brasil](https://groups.google.com/forum/#!forum/wordpress-brasil)
 * [Escola WP](http://www.escolawp.com/)
 * [WP Tuts+](http://wp.tutsplus.com/)
+* [WP Brasil](http://wp-brasil.org/)
+* [Fórum Oficial - internacional](http://wordpress.org/support/)
+* [Fórum Oficial - Brasil](http://br.forums.wordpress.org/)
+* [Blog Tudo para WordPress](http://www.tudoparawordpress.com.br/)
+* [Blog WP Midia](http://wpmidia.com.br/)
 
 ## Artigos
 
@@ -42,3 +47,9 @@
 * [Using CSS Preprocessors With WordPress – LESS + CodeKit](http://wp.tutsplus.com/tutorials/theme-development/using-css-preprocessors-with-wordpress-less-codekit/)
 * [Using CSS Preprocessors With WordPress – LESS Structures](http://wp.tutsplus.com/tutorials/theme-development/using-css-preprocessors-with-wordpress-less-structures/)
 * [Creating Custom Fields for Attachments in WordPress](http://net.tutsplus.com/tutorials/wordpress/creating-custom-fields-for-attachments-in-wordpress/)
+* [Implementing the MVC Pattern in WordPress Plugins](http://iandunn.name/content/presentations/wp-oop-mvc/mvc.php)
+* [Paginação, sem plugins, com recursos nativos do WordPress](http://www.contagia.com.br/blog/wordpress-blog/como-utilizar-paginacao-nativa-wordpress/)
+* [Usando Gulp na criação de temas para WordPress](http://claudiosmweb.com/wordpress/usando-gulp-com-wordpress/)
+* [Adicionando tamanhos de imagens customizados na biblioteca de midias do WordPress 3.5](http://wpmidia.com.br/laboratorio/adicionando-tamanhos-de-imagens-customizados-na-biblioteca-de-midias-wordpress-3-5/)
+* [SQL Update para ajudar na substituição de URL's em casos de migração para novo dominio](http://humbertobz.net/sql-de-update-para-migrar-wordpress/)
+* [Adding Custom Meta Fields to Taxonomies](http://pippinsplugins.com/adding-custom-meta-fields-to-taxonomies/)
