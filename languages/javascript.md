@@ -15,6 +15,7 @@
 - [JavaScript Web Applications](http://shop.oreilly.com/product/0636920018421.do)
 - [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do)
 - [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do)
+- [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
 
 ## Guias
 - [JS - The Right Way Documentation](http://jstherightway.org/)
