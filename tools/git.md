@@ -11,6 +11,7 @@
 
 ### Videos
 - [Webcast • The Basics of Git and GitHub • July 2013](https://www.youtube.com/watch?v=U8GBXvdmHT4)
+- [GitHub Training & Guides - Channel](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw)
 
 ### Comunidades
 - [Grupo Facebook - GIT Brasil](https://www.facebook.com/groups/gitbrasil/)
