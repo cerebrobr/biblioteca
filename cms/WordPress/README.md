@@ -51,3 +51,4 @@ Documentação oficial: [http://codex.wordpress.org/](http://codex.wordpress.org
 * [Adicionando tamanhos de imagens customizados na biblioteca de midias do WordPress 3.5](http://wpmidia.com.br/laboratorio/adicionando-tamanhos-de-imagens-customizados-na-biblioteca-de-midias-wordpress-3-5/)
 * [SQL Update para ajudar na substituição de URL's em casos de migração para novo dominio](http://humbertobz.net/sql-de-update-para-migrar-wordpress/)
 * [Adding Custom Meta Fields to Taxonomies](http://pippinsplugins.com/adding-custom-meta-fields-to-taxonomies/)
+* [WP_Query](WP_Query.md)
