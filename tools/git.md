@@ -10,6 +10,7 @@
 - [Pro Git Book - (Português)](http://git-scm.com/book/pt-br)
 
 ### Videos
+- [Webcast • The Basics of Git and GitHub • July 2013](https://www.youtube.com/watch?v=U8GBXvdmHT4)
 
 ### Comunidades
 - [Grupo Facebook - GIT Brasil](https://www.facebook.com/groups/gitbrasil/)
