@@ -17,6 +17,7 @@
 - [Learning Web Development with Bootstrap and Angular: RAW](http://www.packtpub.com/learning-web-development-with-bootstrap-and-angular/book)
 - [AngularJS Design Patterns](http://www.packtpub.com/angularjs-design-patterns/book)
 - [AngularJS Web application development Blueprints : RAW](http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
+- [Practical AngularJS](https://leanpub.com/Practical_AngularJS/)
 
 
 ## Cursos
