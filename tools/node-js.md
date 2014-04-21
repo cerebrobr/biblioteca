@@ -27,9 +27,10 @@
 - [Node.js Infrastructure: Part 2](http://www.youtube.com/watch?v=4g2TWPFuqqk)
 - [Node.js Events](http://www.youtube.com/watch?v=CoyIBRD6p5U)
 - [Node.js: JavaScript com Google V8 no servidor - Luciano Ramalho](https://www.youtube.com/watch?v=CrOq9MmI6jw)
-- [Build Podcast 044 Node](https://www.youtube.com/watch?v=nECThpIH7qc)
 - [Node.JS: The Good Parts? A Skeptic's View](http://www.youtube.com/watch?v=CN0jTnSROsk)
 - [Node.js and You by Faisal Abid](http://www.youtube.com/watch?v=S2598bkySRA)
+- [Writing Node.js Modules - Playlist](https://www.youtube.com/playlist?list=PLzJZ3ahfm9Q_jrEyor6ugO8JjJrLKI_ua)
+- [Learning Node.js Video Training - Playlist | 95 videos](https://www.youtube.com/playlist?list=PLzJZ3ahfm9Q9kwUuoJadCgNlgnCR4xYwp)
 
 ## Comunidades / Suporte
 - [NodeJS Brasil](http://www.nodejsbrasil.com.br)
