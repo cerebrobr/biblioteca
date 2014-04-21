@@ -1,8 +1,7 @@
-# Ferramentas para Deploy
+# Deploy
 
-* [Heroku](https://www.heroku.com/)
-* [OpenShift](https://www.openshift.com/)
-* [AppFog](https://www.appfog.com/)
-* [Capistrano](http://www.capistranorb.com/)
-* [JenkinsCI](http://jenkins-ci.org/)
-* [Strider](http://stridercd.com/)
+* [Ferramentas pra Automatização de Deploy](automatizacao.md)
+* [PAAS - Plataform As A Service](paas.md)
+* [CI - Continuos Integration](ci.md)
+* [VPS - Faça você mesmo](vps.md)
+
