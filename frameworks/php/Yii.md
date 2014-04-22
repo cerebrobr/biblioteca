@@ -14,10 +14,9 @@
 ## Artigos
 * [Iniciando e conhecendo o Yii Framework](http://www.escolacriatividade.com/php-orientado-a-objetos-introducao-ao-yii-framework/)
 * [Primeiros Passos Yii](http://www.yiiframework.com/doc/guide/1.1/pt/quickstart.what-is-yii)
-* [Herança (extensão) de Views e Blocos no CakePHP](http://blog.glaucocustodio.com/2012/10/26/heranca-extensao-de-views-e-blocos-no-cakephp/)
 
 ## Site Oficial
-* [Site Oficial](http://www.yiiframework.com/tour/)
+* [Site Oficial do Yii Framework](http://www.yiiframework.com/tour/)
 
 ## Demos e Tour
 * [Conheça melhor o Yii framework](http://www.yiiframework.com/tour/)
