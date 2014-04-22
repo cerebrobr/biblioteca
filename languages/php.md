@@ -8,6 +8,7 @@
 - [PHP Manual](http://www.php.net/manual/en/index.php)
 
 ## Videos
+- [PHP & Orientação a Objetos (Hangout)](https://www.youtube.com/watch?v=H9uM9yAaAuY)
 
 ## Comunidades
 
