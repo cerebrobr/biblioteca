@@ -21,4 +21,4 @@
 
 ## Demos e Tour
 * [Conheça melhor o Yii framework](http://www.yiiframework.com/tour/)
-* [Vizualize as DEMOS das aplicações](http://www.yiiframework.com/demos/)
+* [Visualize as DEMOS das aplicações](http://www.yiiframework.com/demos/)
