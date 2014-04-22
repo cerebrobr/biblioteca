@@ -2,7 +2,7 @@
 
 
 
-## Índice Geral
+## Sumário
 
 - [Linguagens](languages/)
 - [Banco de Dados](databases/)
