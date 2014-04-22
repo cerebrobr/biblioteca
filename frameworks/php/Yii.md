@@ -20,5 +20,5 @@
 * [Site Oficial](http://www.yiiframework.com/tour/)
 
 ## Demos e Tour
-* [Conheça melhor esse poderoso framework](http://www.yiiframework.com/tour/)
+* [Conhecendo melhor o Yii framework](http://www.yiiframework.com/tour/)
 * [Vizualize as DEMOS das aplicações](http://www.yiiframework.com/demos/)
