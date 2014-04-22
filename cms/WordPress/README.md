@@ -31,7 +31,7 @@ Documentação oficial: [http://codex.wordpress.org/](http://codex.wordpress.org
 
 ## Artigos
 
-* [WordPress Shortcodes: The Right Way](http://net.tutsplus.com/tutorials/wordpress/wordpress-shortcodes-the-right-way/)
+* [WordPress Shortcodes: The Right Way](http://code.tutsplus.com/tutorials/wordpress-shortcodes-the-right-way--wp-17165)
 * [Como criar uma pesquisa em AJAX para seu blog WordPress](http://www.escolawp.com/2011/01/como-criar-uma-pesquisa-em-ajax-para-seu-blog-wordpress/)
 * [Create WordPress Plugins with OOP Techniques](http://net.tutsplus.com/tutorials/wordpress/create-wordpress-plugins-with-oop-techniques/)
 * [10 Exceptional WordPress Hacks](http://wp.smashingmagazine.com/2009/04/15/10-exceptional-wordpress-hacks/)
