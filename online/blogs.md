@@ -2,7 +2,7 @@
 
 * [Brazil JS](http://braziljs.org/)
 * [Codrops](http://tympanus.net/codrops/)
-* [Css Tricks](http://css-tricks.com/)
+* [CSS Tricks](http://css-tricks.com/)
 * [CSS Wizardry](http://csswizardry.com/)
 * [DevDocs](http://devdocs.io/)
 * [Devmedia](http://www.devmedia.com.br/)
