@@ -1,5 +1,6 @@
 # Suporte
 
+* [DevDocs](http://devdocs.io/)
 * [Stack Exchange](http://stackexchange.com/)
 * [Stack Overflow](http://stackoverflow.com/)
 * [Wordpress Answers](http://wordpress.stackexchange.com/)
