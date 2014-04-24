@@ -4,6 +4,7 @@
 * [Codrops](http://tympanus.net/codrops/)
 * [Css Tricks](http://css-tricks.com/)
 * [CSS Wizardry](http://csswizardry.com/)
+* [DevDocs](http://devdocs.io/)
 * [Devmedia](http://www.devmedia.com.br/)
 * [Front-End Brasil](http://www.frontendbrasil.com.br)
 * [HTML5 Rocks](http://www.html5rocks.com)
