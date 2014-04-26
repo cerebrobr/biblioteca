@@ -1,4 +1,4 @@
-# VPS - Faça voçê mesmo
+# VPS - Faça você mesmo
 
 ## Serviços
 * [AWS](https://aws.amazon.com/pt/ec2/?nc1=h_ls)

@@ -2,6 +2,7 @@
 
 > Documentação oficial: [http://docs.vagrantup.com/v2/](http://docs.vagrantup.com/v2/)
 
+> Tradução da documentação: [http://friendsofvagrant.github.io/](http://friendsofvagrant.github.io/)
 ## Videos
 
 ## Comunidades / Suporte
