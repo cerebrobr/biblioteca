@@ -1,11 +1,9 @@
-# Aprendendo C
+# C
 
 ## Livros
 
 ## Guias
 
 ## Videos
-
-## Comunidades / Suporte
 
 ## Artigos

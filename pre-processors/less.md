@@ -1,4 +1,4 @@
-# Aprendendo LESS
+# LESS
 
 > Documentação oficial: [http://lesscss.org/#usage](http://lesscss.org/#usage)
 
@@ -7,9 +7,6 @@
 
 ## Videos
 - [Introdução ao CSS dinamico com less CSS](http://www.youtube.com/watch?v=pzC3zThxC_s)
-
-## Comunidades
-- [LESS « The Dynamic Stylesheet language](http://lesscss.org/)
 
 ## Artigo
 - [Less Tips and Tricks](http://flippinawesome.org/2013/05/20/less-tips-and-tricks/)

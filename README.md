@@ -1,24 +1,28 @@
 # Biblioteca
 
-
+> **NOTAS IMPORTANTE:**
+>
+> 1. Este repositório será apenas para alimentar os conteúdos em **inglês** e que servirão como referências para futuras traduções. Fique a vontade para contribuir com qualquer material que não seja em **pt-BR**. Os conteúdos em **pt-BR** deverão ser servidos nos seus respectivos repositórios.
+> **Exemplo:** quaisquer artigos em **pt-BR** deverão ser inseridos no repositório [artigos](https://github.com/cerebrobr/artigos), apresentações no repositório [apresentacoes](https://github.com/cerebrobr/apresentacoes) e assim por diante.
+> 2. Por favor, antes de realizar o _pull request_, leia o [**Guia de Contribuição**](https://github.com/cerebrobr/cerebro#como-contribuir) da nossa organização.
 
 ## Sumário
 
-- [Linguagens](languages/)
-- [Banco de Dados](databases/)
-- [Frameworks](frameworks/)
-- [Pré-processadores](pre-processors)
-- [Geradores Estáticos](static-generators/)
-- [Automação de Tarefas](task-runner/)
-- [Gerenciamento de Dependências](pkg-managers/)
-- [Gerenciadores de Conteúdo](cms/)
-- [Loja Virtual](e-commerce/)
-- [Mobile](mobile/)
-- [Ferramentas](tools/)
-- [Espaço Online](online/)
-- [Web Servers](web-servers/)
+- [CMS](cms/)
+- [Banco de Dados](database/)
 - [Deploy](deploy/)
+- [E-Commerce](e-commerce/)
+- [Frameworks](frameworks/)
+- [Linguagens](languages/)
+- [Mobile](mobile/)
 - [OS](os/)
+- [Gerenciadores de Pacotes](pkg-managers/)
+- [Pré-processadores](pre-processors/)
+- [Geradores Estáticos](static-generators/)
+- [Automação](task-runner/)
+- [Testes](tests/)
+- [Ferramentas](tools/)
+- [Web Servers](web-servers/)
 
 ## Estrutura
 
@@ -56,17 +60,12 @@
 	│   └── shell/
     │
 	├── mobile/
-    │
-    ├── online/
-	│   ├── android/
-	│   ├── ios/
-	│   └── web-mobile/
-    │
     ├── os/
     ├── pkg-managers/
 	├── pre-processors/
     ├── static-generator/
     ├── task-runner/
+    ├── tests/
 	├── tools/
 	└── web servers/
 ```

@@ -1,4 +1,4 @@
-# Aprendendo Lisp
+# Lisp
 
 ## Livros
 
@@ -7,8 +7,6 @@
 - [Planet Lisp](http://planet.lisp.org/)
 
 ## Videos
-
-## Comunidades / Suporte
 
 ## Artigos
 - [The nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)

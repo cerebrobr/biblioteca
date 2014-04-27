@@ -1,4 +1,4 @@
-# Aprendendo Ember JS
+# EmberJS
 
 > Documentação oficial: [http://emberjs.com/guides/](http://emberjs.com/guides/)
 
@@ -8,11 +8,6 @@
 ## Videos
 * [Building Web Applications with Ember.js](http://www.youtube.com/watch?v=u6RFyVN9sNg)
 * [Ember 101 ScreenCasts](http://ember101.com/)
-
-## Comunidades / Suporte
-* [Stackoverflow](http://stackoverflow.com/questions/tagged/ember.js)
-* [Discuss](http://discuss.emberjs.com/)
-* [EmberWatch: List of Resources](http://emberwatch.com/)
 
 ## Artigos
 * [Getting Into Ember.js: Part 1](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/)

@@ -1,24 +1,20 @@
-# Aprendendo Knockout JS
+# KnockoutJS
 
 > Documentação oficial: [http://knockoutjs.com/documentation/introduction.html](http://knockoutjs.com/documentation/introduction.html/)
 
-## Livros 
+## Livros
 
 * [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs/)
 * [KnockoutJS Starter](http://www.amazon.com/KnockoutJS-Starter-Eric-M-Barnard/dp/1782161147/)
 
-## Videos 
+## Videos
 
 * [Knockout.js Você já ouviu falar? #1](http://www.youtube.com/watch?v=QfixTohtKIc/)
 * [7 min Crash Course - KnockoutJS](http://www.youtube.com/watch?v=JGwRIbWWqjE/)
 * [What's New in Knockout.js 3.0](http://www.youtube.com/watch?v=kep19WW7rp8/)
 * [Knockout.js Tutorial](http://www.youtube.com/watch?v=AQbdDLweGxQ/)
 
-## Comunidade/Suporte
-
-* [Knockoutjs community](https://geekli.st/community/knockoutjs/)
-
-## Artigos 
+## Artigos
 
 * [Into the Ring with Knockout.js](http://net.tutsplus.com/sessions/into-the-ring-with-knockout-js/?search_index=1)
 * [Knockout Succinctly](http://net.tutsplus.com/sessions/knockout-succinctly/?search_index=2/)

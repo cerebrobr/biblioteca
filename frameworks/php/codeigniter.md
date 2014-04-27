@@ -6,7 +6,4 @@
 
 ## Videos
 
-## Comunidades / Suporte
-* [CodeIgniter Brasil](http://codeigniterbrasil.com/)
-
 ## Artigos

@@ -8,9 +8,6 @@
 
 ## Videos
 
-## Comunidades
-* [Symfony Brasil - (Google Groups)](https://groups.google.com/forum/#!forum/symfony-pt)
-
 ## Artigos
 
 ## Blogs

@@ -1,4 +1,4 @@
-# Aprendendo Unix
+# Unix
 
 ## Livros
 
@@ -6,8 +6,6 @@
 - [Unix Guru Universe](http://www.ugu.com/)
 
 ## Videos
-
-## Comunidades / Suporte
 
 ## Artigos
 

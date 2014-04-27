@@ -1,4 +1,4 @@
-# Aprendendo jQuery
+# jQuery
 
 ## Livros
 
@@ -7,7 +7,5 @@
 
 ## Videos
 * [Fundamentals for Great jQuery Development](http://www.youtube.com/watch?v=YcylSiDoOio)
-
-## Comunidades
 
 ## Artigos

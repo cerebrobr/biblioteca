@@ -1,4 +1,4 @@
-# Aprendendo HTML
+# HTML
 
 ## Livros
 - [HTML5 - A linguagem de marcação que revolucionou a web](http://www.novatec.com.br/livros/html5/)
@@ -31,7 +31,3 @@
 - [HTML5 video accessibility and the WebVTT file format](http://www.youtube.com/watch?v=RoYvr-KXvLs)
 
 ## Artigos
-
-## Cursos
-
-## Comunidade

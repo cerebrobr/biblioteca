@@ -1,11 +1,9 @@
-# Aprendendo Go lang
+# Golang
 
 ## Livros
 
 ## Guias
 
 ## Videos
-
-## Comunidades / Suporte
 
 ## Artigos

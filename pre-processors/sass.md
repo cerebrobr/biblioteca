@@ -1,4 +1,4 @@
-# Aprendendo Sass
+# Sass
 
 > Documentação oficial: [http://sass-lang.com/docs.html](http://sass-lang.com/docs.html)
 
@@ -9,8 +9,6 @@
 * [Sass, Compass & the new Webdev Tools](http://www.youtube.com/watch?v=I92DNpFXa4Q)
 * [Maintainable Workflow with Sass](http://www.youtube.com/watch?v=fPAf8dN4G4w)
 * [Sass Tutorials - LevelUpTuts](http://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
-
-## Comunidades
 
 ## Artigos
 * [Thoughts For Better Variable Organization In SASS](http://www.vanseodesign.com/css/variable-organization-in-sass/)

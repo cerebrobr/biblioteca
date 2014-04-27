@@ -4,8 +4,6 @@
 
 ## Videos
 
-[Alex Ford: Node.js & Express 101] (http://www.youtube.com/watch?v=BN0JlMZCtNU)
-
-## Comunidades / Suporte
+[Alex Ford: Node.js & Express 101](http://www.youtube.com/watch?v=BN0JlMZCtNU)
 
 ## Artigos

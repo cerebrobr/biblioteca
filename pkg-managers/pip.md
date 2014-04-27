@@ -4,9 +4,7 @@
 
 ### Videos
 
-### Comunidades / Suporte
+### Guias
+* [How to use pip](http://www.pythonforbeginners.com/basics/how-to-use-pip-and-pypi/)
 
 ### Artigos
-
-* [Instalando pip no windows (em inglês) ](http://docs.python-guide.org/en/latest/starting/install/win/)
-* [Como usar o pip (em inglês) ] (http://www.pythonforbeginners.com/basics/how-to-use-pip-and-pypi/)

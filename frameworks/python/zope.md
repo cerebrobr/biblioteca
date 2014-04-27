@@ -4,6 +4,4 @@
 
 ## Videos
 
-## Comunidades
-
 ## Artigos

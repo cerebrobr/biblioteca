@@ -1,11 +1,9 @@
-# Aprendendo Haskell
+# Haskell
 
 ## Livros
 
 ## Guias
 
 ## Videos
-
-## Comunidades / Suporte
 
 ## Artigos

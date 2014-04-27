@@ -1,4 +1,4 @@
-# Aprendendo Shell
+# Shell
 
 ## Livros
 - [Shell Script Profissional](http://www.novatec.com.br/livros/shellscript/?idA=12)
@@ -11,8 +11,6 @@
 - [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/)
 
 ## Videos
-
-## Comunidades
 
 ## Artigos
 - [The Fundamentals of Bash Scripting](http://net.tutsplus.com/tutorials/other/the-fundamentals-of-bash-scripting/)

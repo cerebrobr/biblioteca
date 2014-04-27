@@ -8,4 +8,4 @@
 * [Ruby](ruby/)
 * [Mobile](mobile/)
 * [Sass](sass/)
-* [WordPress](WordPress)
+* [WordPress](wordpress/)

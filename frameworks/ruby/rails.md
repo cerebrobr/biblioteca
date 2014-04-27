@@ -19,9 +19,6 @@
 * [RailsCast](http://railscasts.com/)
 * [Ruby on Rails (para iniciantes) - Lucas Caton](http://www.youtube.com/watch?v=pMYPHL4kdBo)
 
-## Comunidades
-* [Grupo Facebook - Ruby on Rails Brasil](https://www.facebook.com/groups/rubyonrailsbrasil/)
-
 ## Artigos
 * [Passo a passo de como instalar o Ruby e o Rails no Unix(*)](https://github.com/danielvlopes/ruby-unix)
 * [Instalando e Configurando Ambiente Ruby on Rails no Linux (Ubuntu)](http://blog.glaucocustodio.com/2012/08/23/instalando-e-configurando-ambiente-ruby-on-rails-no-linux/)

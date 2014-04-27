@@ -1,4 +1,4 @@
-# Aprendendo Stylus
+# Stylus
 
 > Documentação oficial: [http://learnboost.github.io/stylus/](http://learnboost.github.io/stylus/)
 
@@ -7,8 +7,6 @@
 * [Stylus - Expressive, dynamic, robust CSS for Node.js](http://www.screenr.com/bNY)
 
 ## Livros
-
-## Comunidades / Suporte
 
 ## Artigos
 * [Getting Started with Stylus – CSS Pre-Processor](http://bootstrap.pk/tutorials/getting-started-with-stylus-css-pre-processor/)

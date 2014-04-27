@@ -6,8 +6,6 @@
 
 ## Videos
 
-## Comunidades
-
 ## Artigos
 
 * [Getting started with Flask – An Introduction to Python’s Flask Framework](http://net.tutsplus.com/tutorials/python-tutorials/an-introduction-to-pythons-flask-framework/?search_index=5/)

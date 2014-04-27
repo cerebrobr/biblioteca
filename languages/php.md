@@ -1,4 +1,4 @@
-# Aprendendo PHP
+# PHP
 
 ## Livros
 [PHP Programando com Orientação a Objetos](https://www.novatec.com.br/livros/phpobj/)
@@ -12,12 +12,6 @@
 - [PHP - Frameworks (Hangout)](https://www.youtube.com/watch?v=2t9IMnzoAwE)
 - [PHP - Formas de Deploy (Hangout)](https://www.youtube.com/watch?v=9YgyibnwatE)
 - [PHP - APIs (Hangout)](https://www.youtube.com/watch?v=F1aYVD-hYzE)
-
-## Comunidades
-- [PHP Brasil](https://www.facebook.com/groups/nao.tem.biscoito/)
-- [PHP Campinas](https://www.facebook.com/groups/grupo.campinas/)
-- [PHP Maranhão](https://www.facebook.com/groups/466260410082261/)
-- [PHP São Paulo](https://www.facebook.com/groups/sao.paulo.elephants/)
 
 ## Artigos
 - [How to Write Testable and Maintainable Code in PHP](http://net.tutsplus.com/tutorials/php/how-to-write-testable-and-maintainable-code-in-php/)

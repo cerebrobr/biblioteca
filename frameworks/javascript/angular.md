@@ -1,4 +1,4 @@
-# Aprendendo Angular JS
+# AngularJS
 
 > Documentação oficial: [http://angularjs.org/](http://angularjs.org/)
 
@@ -19,11 +19,9 @@
 - [AngularJS Web application development Blueprints : RAW](http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
 - [Practical AngularJS](https://leanpub.com/Practical_AngularJS/)
 
-
 ## Cursos
 - [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/)
 - [Interactive AngularJS tutorials](http://ng-tutorial.mgechev.com/)
-
 
 ## Videos
 - [Re-Imagining the Browser with AngularJS](http://www.youtube.com/watch?v=ersEb9vTX3Y)
@@ -54,15 +52,6 @@
 - [AngularJS Videos Collection in Youtube](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ)
 - [ng-conf YouTube Page](http://www.youtube.com/user/ngconfvideos)
 - [Introduction to Angular.js in 50 Examples (part 1)](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
-
-
-## Comunidades / Suporte
-- [StackOverflow](http://stackoverflow.com/questions/tagged/angularjs)
-- [AngularJS Mailing List (Google Groups)](http://groups.google.com/group/angular)
-- [Chatroom (Browser-based IRC)](http://webchat.freenode.net/?channels=angularjs&uio=d4)
-- [AngularJS Google+ Community](https://plus.google.com/u/0/communities/115368820700870330756)
-- [reddit](http://www.reddit.com/r/angularjs)
-
 
 ## Artigos
 - [Diferença entre attrs.$observe e scope.$watch](http://stackoverflow.com/questions/14876112/difference-between-observers-and-watchers)
@@ -359,6 +348,8 @@
 - [Unit Testing AngularJS Controllers Using Jasmine](http://sravi-kiran.blogspot.com/2013/04/UnitTestingAngularJsControllerUsingJasmine.html)
 - [Unit Testing AngularJS Controller Using QUnit and Sinon](http://sravi-kiran.blogspot.com/2013/06/UnitTestingAngularJsControllerUsingQUnitAndSinon.html)
 - [Testing AngularJS Directives: Handling External Templates](http://www.portlandwebworks.com/blog/testing-angularjs-directives-handling-external-templates)
+- [AngularJS Testing with Karma and Jasmine](http://www.tuesdaydeveloper.com/2013/06/angularjs-testing-with-karma-and-jasmine/)
+- [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
 - [How To Unit Test An Angular App](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
 - [Unit Testing - Directives](http://www.benlesh.com/2013/06/angular-js-unit-testing-directives.html)
 - [Unit Testing - Services](http://www.benlesh.com/2013/06/angular-js-unit-testing-services.html)

@@ -4,10 +4,6 @@
 
 ## Videos
 
-## Comunidades / Suporte
-
-* Comunidade no google plus [https://plus.google.com/communities/112773525639167827403](https://plus.google.com/communities/112773525639167827403/)
-
 ## Artigos
 
 * [Getting Started with iOS](http://cordova.apache.org/docs/en/2.5.0/guide_getting-started_ios_index.md.html)

@@ -1,4 +1,4 @@
 # Sumário
 
-* [Apache](apache.md)
-* [Nginx](nginx.md)
+- [Apache](apache.md)
+- [Nginx](nginx.md)

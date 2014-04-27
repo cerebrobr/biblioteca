@@ -1,8 +1,11 @@
-# Aprendendo JavaScript
+# JavaScript
 
 > Documentação oficial: [http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
 
 ## Livros
+- [DOM Enlightenment](http://shop.oreilly.com/product/0636920027690.do)
+- [Ajax: The Definitive Guide](http://shop.oreilly.com/product/9780596528386.do)
+- [Securing Ajax Applications](http://shop.oreilly.com/product/9780596529314.do)
 - [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [JavaScript - Guia do Programador](http://www.novatec.com.br/livros/javascriptguia/)
@@ -16,6 +19,13 @@
 - [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do)
 - [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do)
 - [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
+- [What Is Node?](http://shop.oreilly.com/product/0636920021506.do)
+- [Node for Front-end Developers - Writing Server-Side JavaScript Applications](http://shop.oreilly.com/product/0636920023258.do)
+- [Node.js for PHP Developers](http://shop.oreilly.com/product/0636920026013.do)
+- [Learning Node - Moving to the Server-Side](http://shop.oreilly.com/product/0636920024606.do)
+- [Node: Up and Running](http://shop.oreilly.com/product/0636920015956.do)
+- [Larger Cover
+- [Building Node Applications with MongoDB and Backbone - Rapid Prototyping and Scalable Deployment](http://shop.oreilly.com/product/0636920026587.do)
 
 ## Guias
 - [JS - The Right Way Documentation](http://jstherightway.org/)
@@ -28,22 +38,25 @@
 - [HTML5Rocks - ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
 - [Promises JS](http://www.promisejs.org/)
 - [Promises/A+](http://promisesaplus.com/)
-
-## Blogs
-- [Infoq](http://www.infoq.com/br/javascript/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
-- [bbenvie](http://bbenvie.com/)
-- [blog.jcoglan](https://blog.jcoglan.com/)
-- [addyosmani](http://addyosmani.com/blog/)
-- [paulirish](http://www.paulirish.com/)
-- [javascriptweblog](http://javascriptweblog.wordpress.com/)
-- [joezimjs](http://www.joezimjs.com/)
-- [javascriptissexy](http://javascriptissexy.com/)
-- [ECMA-262](http://dmitrysoshnikov.com/)
-- [Perfection Kills](http://perfectionkills.com/)
-- [②ality – JavaScript and more](http://www.2ality.com/)
-- [JavaScript, JavaScript...](https://javascriptweblog.wordpress.com/)
+- [Art of Node (pt-BR)](https://github.com/maxogden/art-of-node/blob/master/readme.pt-br.md)
+- [Node Beginner](http://www.nodebeginner.org/)
+- [Node Labs](http://www.nodelabs.org/)
+- [NodeSchool](http://nodeschool.io/)
+- [Cabaré Fun with Node and NoSQL](http://caba.re/)
+- [Blog TJ Holowaychuk](https://medium.com/@tjholowaychuk)
+- [JSApp.us](http://jsapp.us/)
+- [Node Tuts](http://nodetuts.com/)
+- [How to Node](http://howtonode.org/)
 
 ## Videos
+- [Node.js Infrastructure: Part 1](http://www.youtube.com/watch?v=ZRFh62EX2qM)
+- [Node.js Infrastructure: Part 2](http://www.youtube.com/watch?v=4g2TWPFuqqk)
+- [Node.js Events](http://www.youtube.com/watch?v=CoyIBRD6p5U)
+- [Node.js: JavaScript com Google V8 no servidor - Luciano Ramalho](https://www.youtube.com/watch?v=CrOq9MmI6jw)
+- [Node.JS: The Good Parts? A Skeptic's View](http://www.youtube.com/watch?v=CN0jTnSROsk)
+- [Node.js and You by Faisal Abid](http://www.youtube.com/watch?v=S2598bkySRA)
+- [Writing Node.js Modules - Playlist](https://www.youtube.com/playlist?list=PLzJZ3ahfm9Q_jrEyor6ugO8JjJrLKI_ua)
+- [Learning Node.js Video Training - Playlist | 95 videos](https://www.youtube.com/playlist?list=PLzJZ3ahfm9Q9kwUuoJadCgNlgnCR4xYwp)
 - [I .promise() to show you .when() to use Deferreds](http://www.youtube.com/watch?v=juRtEEsHI9E)
 - [Javascript Testing: The Holy Grail](http://www.youtube.com/watch?v=YdFQ29oK50M)
 - [Javascript Development Workflow of 2013](http://www.youtube.com/watch?v=f7AU2Ozu8eo)
@@ -55,12 +68,8 @@
 - [Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
 - [JS Storage - 4º RioJS](http://www.youtube.com/watch?v=YnimlWo0Gw8)
 
-## Comunidades
-- [JavaScript Brasil](http://javascriptbrasil.com/)
-- [Brazil JS](http://braziljs.org/)
-- [Jquery Brasil](https://www.facebook.com/groups/jquerybrasil/)
-
 ## Artigos
+- [Speeding up JavaScript: Working with the DOM](https://developers.google.com/speed/articles/javascript-dom)
 - [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
 - [Afinal, como é Orientação a Objetos em JavaScript?](http://wbruno.com.br/javascript-puro/afinal-como-e-orientacao-a-objetos-em-javascript-exemplos/)
 - [Orientação a Objetos em Javascript – Função Construtora](http://wbruno.com.br/javascript-puro/orientacao-a-objetos-em-javascript-funcao-construtora/)
@@ -102,3 +111,16 @@
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [ES6 Language Features](https://github.com/google/traceur-compiler/wiki/LanguageFeatures)
 - [Author In ES6, Transpile To ES5 As A Build-step: A Workflow For Grunt](http://addyosmani.com/blog/author-in-es6-transpile-to-es5-as-a-build-step-a-workflow-for-grunt/) - HOT! :)
+
+**NodeJS**
+
+- [Compilando e Instalando Node.js](http://blog.glaucocustodio.com/2013/05/15/compilando-e-instalando-node-js/)
+- [Node.js Events](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-events/)
+- [Export This](http://bites.goodeggs.com/posts/export-this/)
+- [Learn NodeJS completely and with confidence](http://www.javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
+- [Node.js Events and EventEmitter](http://www.sitepoint.com/nodejs-events-and-eventemitter/)
+- [How to decide when to use Node.js?](http://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js) - Leitura essencial! :)
+- [How To Build A CLI Tool With Node.js And PhantomJS](http://www.smashingmagazine.com/2014/02/12/build-cli-tool-nodejs-phantomjs/)
+- [Command Line Utilities with Node.js](http://shapeshed.com/command-line-utilities-with-nodejs/)
+- [Master the CLI with Node](http://michaelbrooks.ca/deck/jsconf2013/#/)
+

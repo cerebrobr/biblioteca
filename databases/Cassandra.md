@@ -1,11 +1,4 @@
-# Aprendendo Cassandra
-
-> Apache Cassandra é um projeto de sistema de banco de dados distribuído altamente escalável de segunda geração, que reúne a arquitetura do Dynamo, da Amazon e modelo de dados baseado no BigTable, do Google.
-O Cassandra inicialmente foi criado pelo Facebook, que abriu seu código-fonte para a comunidade em 2008. Agora é mantido por desenvolvedores da fundação Apache e colaboradores de muitas empresas.
-
-> *Fonte: [http://pt.wikipedia.org/wiki/Apache_Cassandra](http://pt.wikipedia.org/wiki/Apache_Cassandra/)*
-
-<br>
+# Cassandra
 
 > Documentação oficial: [http://cassandra.apache.org/](http://cassandra.apache.org/)
 
@@ -14,10 +7,6 @@ O Cassandra inicialmente foi criado pelo Facebook, que abriu seu código-fonte p
 * [Pratical Cassandra](http://www.amazon.com/Practical-Cassandra-Developers-Addison-Wesley-Analytics/dp/032193394X/)
 
 ## Videos
-
-## Comunidades / Suporte
-
-* [http://planetcassandra.org/](http://planetcassandra.org/)
 
 ## Artigos
 

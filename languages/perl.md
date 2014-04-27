@@ -1,11 +1,9 @@
-# Aprendendo Perl
+# Perl
 
 ## Livros
 
 ## Guias
 
 ## Videos
-
-## Comunidades / Suporte
 
 ## Artigos
