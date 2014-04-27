@@ -56,4 +56,4 @@ Documentação oficial: [http://codex.wordpress.org/](http://codex.wordpress.org
 
 ## Site de Referências
 
-* [Guga Alves - Tudo para WordPress](http://www.tudoparawordpress.com.br/)
+* [Guga Alves - Site Tudo para WordPress](http://www.tudoparawordpress.com.br/)
