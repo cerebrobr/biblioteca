@@ -52,3 +52,8 @@ Documentação oficial: [http://codex.wordpress.org/](http://codex.wordpress.org
 * [SQL Update para ajudar na substituição de URL's em casos de migração para novo dominio](http://humbertobz.net/sql-de-update-para-migrar-wordpress/)
 * [Adding Custom Meta Fields to Taxonomies](http://pippinsplugins.com/adding-custom-meta-fields-to-taxonomies/)
 * [WP_Query](WP_Query.md)
+* [Grunt JS Tutorial WordPress](http://ernandesferreira.me/odin/gruntjs-tutorial/)
+
+## Site de Referências
+
+* [Guga Alves - Tudo para WordPress](http://www.tudoparawordpress.com.br/)
