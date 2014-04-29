@@ -1,6 +1,8 @@
 # Bootstrap
 
 ## Videos
+- [Playlist - Bootstrap 3.0 Grid System](https://www.youtube.com/playlist?list=PLKlA1QwYBcmdCQPRN9IcRHEh1w5yC8djY)
+- [Playlist - Learn Twitter Bootstrap in 2 Hours](https://www.youtube.com/playlist?list=PLKlA1QwYBcmcEUUBSmkl8_kgwn-_zuy-W)
 
 ## Artigos
 
