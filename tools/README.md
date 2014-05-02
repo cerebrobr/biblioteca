@@ -8,3 +8,4 @@
 - [Git](git.md)
 - [Vagrant](vagrant.md)
 - [Yeoman](yeoman.md)
+- [Web Components](web-components.md)
