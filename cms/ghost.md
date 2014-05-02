@@ -3,7 +3,9 @@
 > Documentação oficial: [http://docs.ghost.org/](http://docs.ghost.org/)
 
 ## Videos
-[How to install Ghost](http://webdesign.tutsplus.com/tutorials/cms-tutorials/how-to-install-ghost/?search_index=2/)
+- [How to install Ghost](http://webdesign.tutsplus.com/tutorials/cms-tutorials/how-to-install-ghost/?search_index=2/)
+- [Installing Ghost Blogging Platform Behind Nginx on a Subdomain and NodeJS Install](https://www.youtube.com/watch?v=drvpDX5ENtE)
+- [How To Setup Ghost Blogging Platform on Digital Ocean](https://www.youtube.com/watch?v=5HQzBF_0UhE)
 
 ## Artigos
 - [Understanding Ghost: Stages of design](http://webdesign.tutsplus.com/tutorials/cms-tutorials/understanding-ghost-stages-of-design/)
