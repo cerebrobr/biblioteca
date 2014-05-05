@@ -18,3 +18,5 @@
 - [Backbone.js Wine Cellar Tutorial Part 1](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/)
 - [Backbone.js Wine Cellar Tutorial Part 2](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/)
 - [Make Backbone Better With Extensions](http://net.tutsplus.com/tutorials/javascript-ajax/make-backbone-better-with-extensions/)
+- [Using Backbone.js models with cookies and localStorage instead of REST](http://www.100percentjs.com/using-backbone-js-models-with-cookies-and-localstorage-instead-of-rest/)
+- [Fast caching in Backbone.js using localStorage](http://www.pixafy.com/blog/2013/08/fast-caching-in-backbone-js-using-localstorage/)
