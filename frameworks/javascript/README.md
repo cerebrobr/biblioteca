@@ -1,10 +1,11 @@
 # Sumário
 
 - [Angular](angular.md)
-- [Ember](ember.md)
 - [Backbone](backbone.md)
-- [Meteor](meteor.md)
+- [CanJS](CanJS.md)
+- [Ember](ember.md)
 - [Flight](flight.md)
 - [Knockout](knockout.md)
+- [Meteor](meteor.md)
 - [React](react.md)
-- [CanJS](CanJS.md)
+
