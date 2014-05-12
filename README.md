@@ -9,7 +9,7 @@
 ## Sumário
 
 - [CMS](cms/)
-- [Banco de Dados](database/)
+- [Banco de Dados](databases/)
 - [Deploy](deploy/)
 - [E-Commerce](e-commerce/)
 - [Frameworks](frameworks/)
