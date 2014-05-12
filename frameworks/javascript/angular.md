@@ -54,17 +54,7 @@
 - [Introduction to Angular.js in 50 Examples (part 1)](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
 
 ## Artigos
-- [Diferença entre attrs.$observe e scope.$watch](http://stackoverflow.com/questions/14876112/difference-between-observers-and-watchers)
-- [Dicas de organização de código](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
-- [Escopos e $apply()](http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
-- [ngModel e como integrar plugins jQuery com escopos do AngularJS + sample Plunker](http://dailydevtips.com/2013/12/09/118-como-integrar-plugins-jquery-com-o-angularjs-usando-ngmodel/)
-- [Como estruturar serviços para o AngularJS + sample Plunker](http://dailydevtips.com/2013/10/31/116-escrevendo-servicos-com-angularjs/)
-- [Formato de dados & POST/PUT: application/json vs x-www-form-urlencoded](http://dailydevtips.com/2014/01/24/119-angularjs-http-post-e-json-com-php/)
 - [Build your own AngularJS: scopes, $apply(), watchers and stuff](http://teropa.info/blog/2013/11/20/writing-a-book-about-making-your-own-angularjs.html)
-- [Dicas para arquitetar o backend usando REST](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)
-- [Quando usar Controllers, Services e Directives](http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/)
-- [Exemplo de uso: Services + Controllers + ngMock](http://embed.plnkr.co/B5JTy5GU6ay2Cw5c7LAM/preview)
-- [Exemplo de uso: decorators](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
 - [Why does AngularJS rock](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
 - [More AngularJS Magic to Supercharge your webapp](http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
 - [Using jQuery Event Delegation In AngularJS](http://www.bennadel.com/blog/2448-Using-jQuery-Event-Delegation-In-AngularJS.htm)
