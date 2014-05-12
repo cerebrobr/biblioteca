@@ -1,9 +1,9 @@
 # Sumário
 
-- [WordPress](WordPress/)
 - [Drupal](drupal/)
+- [Ghost](ghost/)
 - [Joomla](joomla/)
 - [Locomotive](locomotive/)
-- [Refinery](refinery/)
 - [Plone](plone/)
-- [Ghost](ghost/)
+- [Refinery](refinery/)
+- [WordPress](WordPress/)
