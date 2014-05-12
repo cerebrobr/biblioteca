@@ -8,20 +8,20 @@
 
 ## Sumário
 
-- [CMS](cms/)
+- [Automação](task-runner/)
 - [Banco de Dados](databases/)
+- [CMS](cms/)
 - [Deploy](deploy/)
 - [E-Commerce](e-commerce/)
+- [Ferramentas](tools/)
 - [Frameworks](frameworks/)
+- [Geradores Estáticos](static-generators/)
+- [Gerenciadores de Pacotes](pkg-managers/)
 - [Linguagens](languages/)
 - [Mobile](mobile/)
 - [OS](os/)
-- [Gerenciadores de Pacotes](pkg-managers/)
 - [Pré-processadores](pre-processors/)
-- [Geradores Estáticos](static-generators/)
-- [Automação](task-runner/)
 - [Testes](tests/)
-- [Ferramentas](tools/)
 - [Web Servers](web-servers/)
 
 ## Estrutura
@@ -29,8 +29,8 @@
 ```
 	biblioteca/
     │
+    	├── databases/
 	├── cms/
-	├── databases/
     ├── deploy/
     │
 	├── frameworks/
