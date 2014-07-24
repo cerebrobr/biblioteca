@@ -29,5 +29,6 @@
 - [Broken Promises of HTML5, and What's Next?](http://www.youtube.com/watch?v=Pi7PBR7SMqM)
 - [HTML5 Video Full Throttle](http://www.youtube.com/watch?v=FDYjHrpg5Lc)
 - [HTML5 video accessibility and the WebVTT file format](http://www.youtube.com/watch?v=RoYvr-KXvLs)
+- [Universidade XTI - Curso de (X)HTML (31 aulas)](https://www.youtube.com/playlist?list=PL58E7AE1ABE557AE4)
 
 ## Artigos
