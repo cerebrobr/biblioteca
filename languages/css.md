@@ -22,6 +22,7 @@
 - [CSS3 - phpacademy](http://www.youtube.com/watch?v=n9Yw_4TrFt4&list=PL860319852CD11A5C)
 - [Bernard De Luna: Performance em CSS - BrazilJS 2012](http://www.youtube.com/watch?v=m1iV2C44Duc)
 - [Screencast: visão geral de SMACSS](http://www.fititnt.org/frontend/screencast-smacss-scalable-and-modular-architecture-for-css.html)
+- [Universidade XTI - Curso de CSS (35 aulas)](https://www.youtube.com/playlist?list=PL818DE9B26FECFB02)
 
 ## Artigos
 - [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
