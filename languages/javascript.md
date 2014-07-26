@@ -43,6 +43,7 @@
 - [Node Labs](http://www.nodelabs.org/)
 - [NodeSchool](http://nodeschool.io/)
 - [Cabaré Fun with Node and NoSQL](http://caba.re/)
+- [Nomadev MEAN](http://nomadev.com.br/)
 - [Blog TJ Holowaychuk](https://medium.com/@tjholowaychuk)
 - [JSApp.us](http://jsapp.us/)
 - [Node Tuts](http://nodetuts.com/)
