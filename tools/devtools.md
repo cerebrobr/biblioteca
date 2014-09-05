@@ -9,6 +9,11 @@
 * [Segredos do Chrome DevTools - Ep. 3: Workspaces](https://www.youtube.com/watch?v=zpEs6fLnwO0&index=3&list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d)
 * [Segredos do Chrome DevTools - Ep. 4: Console](https://www.youtube.com/watch?v=eSPMRDcq9Co&index=4&list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d)
 * [Segredos do Chrome DevTools - Ep. 5: Debug](https://www.youtube.com/watch?v=b_rvFrBwMRM&list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d&index=5)
+* [Segredos do Chrome DevTools - Ep. 6: Resources](https://www.youtube.com/watch?v=hXO7fa98Msg&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53&index=6)
+* [Segredos do Chrome DevTools - Ep. 7: Network](https://www.youtube.com/watch?v=wsCCACcEtig&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53&index=7)
+* [Segredos do Chrome DevTools - Ep. 8: Audits](https://www.youtube.com/watch?v=Z0zK6rjuvV4&index=8&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+* [Segredos do Chrome DevTools - Ep. 9: Timeline](https://www.youtube.com/watch?v=CSe0piKOZtw&index=9&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+* [Segredos do Chrome DevTools - Ep. 10: Emulator](https://www.youtube.com/watch?v=vqUHtM6dvW8&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53&index=10)
 
 ## Artigos
 * [Google Dev Tools CheatSheet](http://anti-code.com/devtools-cheatsheet/)
