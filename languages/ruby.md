@@ -6,6 +6,7 @@
 - [Practical Ruby Projects - Ideas for the Eclectic Programmer](http://www.apress.com/9781590599112)
 - [Conhecendo Ruby - Eustáquio Rangel (Free)](http://eustaquiorangel.com/livro-ruby)
 - [Aprendendo a programar - Chris Pine (traduzido pela comunidade)](http://aprendaaprogramar.rubyonrails.com.br/)
+- [Ruby: Aprenda a programar na linguagem mais divertida - Casa do Código](http://www.casadocodigo.com.br/products/livro-ruby)
 
 ## Guias
 - [Vinte minutos em Ruby](https://www.ruby-lang.org/pt/documentation/quickstart/)
