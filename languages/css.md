@@ -24,7 +24,7 @@
 - [Guia de Consulta Rápida CSS](http://www.novatec.com.br/guias/css3/)
 - [Smashing CSS](http://www.livrariasaraiva.com.br/produto/3674334)
 
-## Videos
+## Vídeos
 - [Bernard De Luna: Performance em CSS - BrazilJS 2012](http://www.youtube.com/watch?v=m1iV2C44Duc)
 - [CSS3 - phpacademy](http://www.youtube.com/watch?v=n9Yw_4TrFt4&list=PL860319852CD11A5C)
 - [Learn about CSS Animations](http://www.youtube.com/watch?v=R8a9n1qSkng)
