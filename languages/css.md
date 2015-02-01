@@ -19,9 +19,11 @@
 
 ## Livros
 - [CSS3](http://www.novatec.com.br/livros/css3/)
+- [CSS Avançado](http://novatec.com.br/livros/css/)
 - [CSS Cookbook](http://www.novatec.com.br/livros/csscookbook/)
 - [Desenvolvendo CSS na Web](http://www.livrariasaraiva.com.br/produto/2217389)
 - [Guia de Consulta Rápida CSS](http://www.novatec.com.br/guias/css3/)
+- [HTML5 e CSS3](http://www.casadocodigo.com.br/products/livro-html-css)
 - [Smashing CSS](http://www.livrariasaraiva.com.br/produto/3674334)
 
 ## Vídeos
