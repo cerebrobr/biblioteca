@@ -1,5 +1,7 @@
 # Ruby
 
+> Documentação oficial: [http://www.ruby-doc.org/core-2.2.0/](http://www.ruby-doc.org/core-2.2.0/)
+
 ## Artigos
 
 - [Confreaks](http://www.confreaks.com/)
