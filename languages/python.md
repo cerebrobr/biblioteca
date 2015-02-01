@@ -1,5 +1,7 @@
 # Python
 
+> Documentação oficial: [https://www.python.org/doc/](https://www.python.org/doc/)
+
 ## Artigos
 - [Advanced Python Data Structures](http://net.tutsplus.com/tutorials/advanced-python-data-structures/)
 
