@@ -1,5 +1,7 @@
 # PHP
 
+> Documentação oficial: [http://php.net/manual/pt_BR/](http://php.net/manual/pt_BR/)
+
 ## Artigos
 - [Cadastro de Vídeos do YouTube com PHP](http://blog.glaucocustodio.com/2012/08/11/cadastro-de-videos-do-youtube-com-php/)
 - [How to Write Testable and Maintainable Code in PHP](http://net.tutsplus.com/tutorials/php/how-to-write-testable-and-maintainable-code-in-php/)
