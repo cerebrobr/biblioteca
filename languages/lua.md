@@ -1,9 +1,11 @@
 # Lua
 
-## Livros
+> Documentação oficial: [http://www.lua.org/manual/5.1/pt/manual.html](http://www.lua.org/manual/5.1/pt/manual.html)
+
+## Artigos
 
 ## Guias
 
-## Videos
+## Livros
 
-## Artigos
+## Vídeos

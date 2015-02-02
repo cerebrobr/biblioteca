@@ -1,9 +1,11 @@
 # Golang
 
-## Livros
+> Documentação oficial: [https://golang.org/doc/](https://golang.org/doc/)
+
+## Artigos
 
 ## Guias
 
-## Videos
+## Livros
 
-## Artigos
+## Vídeos

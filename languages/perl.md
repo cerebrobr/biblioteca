@@ -1,9 +1,9 @@
 # Perl
 
-## Livros
+## Artigos
 
 ## Guias
 
-## Videos
+## Livros
 
-## Artigos
+## Vídeos
