@@ -4,6 +4,7 @@
 
 ## Artigos
 - [Advanced Python Data Structures](http://net.tutsplus.com/tutorials/advanced-python-data-structures/)
+- [Python Weekly (notícias semanais)](http://www.pythonweekly.com/)
 
 ## Guias
 
