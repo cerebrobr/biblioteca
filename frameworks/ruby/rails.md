@@ -29,6 +29,7 @@
 * [Adicionar Arquivos a Serem Compilados no Asset Pipeline](http://blog.glaucocustodio.com/2012/12/18/adicionar-arquivos-a-serem-compilados-no-asset-pipeline/)
 * [Mass Assignment, Rails, and You](http://net.tutsplus.com/tutorials/ruby/mass-assignment-rails-and-you/)
 * [Digging Into Rails 4](http://net.tutsplus.com/tutorials/ruby/digging-into-rails-4/)
+* [Construindo Querys com ActiveRecord e Arel](http://blog.glaucocustodio.com/2014/07/28/construindo-querys-com-activerecord-e-arel/)
 
 ## Cursos
 * [howto - Cursos do Nando Vieira](http://howtocode.com.br/)
