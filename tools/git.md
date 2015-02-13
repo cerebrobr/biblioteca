@@ -11,6 +11,7 @@
 
 ### Artigos
 - [Git Flow Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### Tutoriais Interativos
 - [Git It](https://npmjs.org/package/git-it)
