@@ -16,6 +16,8 @@
 - [Git It](https://npmjs.org/package/git-it)
 - [Try Git](http://try.github.io/levels/1/challenges/1)
 - [Git Immersion](http://gitimmersion.com/)
+- [Git Tutorial by Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+
 
 ### Extensões
 - [Git Flow](https://github.com/nvie/gitflow)
