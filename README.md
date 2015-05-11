@@ -82,7 +82,11 @@
     │   └── jekyll/
 	│    
     ├── pkg-managers/
-	│   
+	│   ├── bower/
+	│   ├── composer/
+	│   ├── npm/
+	│   ├── pip/
+    │   └── rubygems/
 	│   
 	├── languages/
 	│   ├── c/
