@@ -28,11 +28,45 @@
 
 ```
 	biblioteca/ 
-    │
-    	├── databases/
+    ├── task-runner/
+    │   ├── grunt/
+    │   └── gulp/
+    │   
+    ├── databases/
+    │   ├── cassandra/
+    │   ├── couchDB/
+    │   ├── mariaDB/
+    │   ├── mongoDB/
+    │   ├── mysql/
+    │   ├── postgreSQL/
+    │   └── redis/
+    │   
 	├── cms/
+	│   ├── drupal/
+	│   ├── ghost/
+	│   ├── joomla/
+	│   ├── locomotive/
+	│   ├── plone/
+	│   ├── refinery/
+	│   └── wordpress/
+	│   
     ├── deploy/
-    │
+    │   ├── capistrano/
+    │   ├── travisCI/
+    │   └── vps/
+ 	│   
+	├── e-commerce/
+	│   ├── magento/
+	│   └── opencart/
+	│   
+	├── tools/
+	│   ├── devtools/
+	│   ├── git/
+	│   ├── karma/
+	│   ├── vagrant/
+	│   ├── web-components/
+	│   └── yeoman/
+	│   
 	├── frameworks/
 	│   ├── css/
 	│   ├── javascript/
@@ -42,7 +76,18 @@
 	│   ├── python/
 	│   ├── ruby/
 	│   └── sass/
-    │
+	│   
+    ├── static-generators/
+    │   ├── docpad/
+    │   └── jekyll/
+	│    
+    ├── pkg-managers/
+	│   ├── bower/
+	│   ├── composer/
+	│   ├── npm/
+	│   ├── pip/
+    │   └── rubygems/
+	│   
 	├── languages/
 	│   ├── c/
     │   ├── css/
@@ -60,14 +105,28 @@
 	│   └── shell/
     │
 	├── mobile/
-    ├── os/
-    ├── pkg-managers/
+	│   ├── android/
+	│   ├── ios/
+	│   └── web-mobile/
+    │
+	├── os/
+	│   └── unix/
+    │
 	├── pre-processors/
-    ├── static-generator/
-    ├── task-runner/
-    ├── tests/
-	├── tools/
-	└── web servers/
+	│   ├── coffeescript/
+	│   ├── less/
+	│   ├── sass/
+	│   └── stylus/
+    │
+	├── tests/	
+    │   ├── e2e/
+	│   └── tdd-bdd/
+    │
+	├── web servers/	
+	│   ├── apache/
+	│   └── nginx/
+    └──/
+	
 ```
 
 
