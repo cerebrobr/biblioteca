@@ -3,22 +3,6 @@
 > Documentação oficial: [http://rubyonrails.org/documentation](http://rubyonrails.org/documentation)
 > Tradução: [http://www.rubyonrails.com.br/documentacao](http://www.rubyonrails.com.br/documentacao)
 
-## Livros
-* [Crafting Rails 4 Applications - José Valim](http://pragprog.com/book/jvrails2/crafting-rails-4-applications)
-* [Desenvolvimento Fácil e Rápido de Aplicações Web](http://www.novatec.com.br/livros/rubyonrails2/)
-* [Ruby on Rails: coloque sua aplicação web nos trilhos - Vinícius Baggio Fuentes](http://www.casadocodigo.com.br/products/livro-ruby-on-rails)
-* [Ruby On Rails - Executando](http://www.livrariasaraiva.com.br/produto/1574852/ruby-on-rails-executando)
-
-## Guias
-* [Codelearn -  Tutorial Interativo](http://www.codelearn.org/ruby-on-rails-tutorial)
-* [Desenv. Ágil para Web com Ruby on Rails - Apostila Caelum](https://www.caelum.com.br/apostila-ruby-on-rails/)
-* [Rails for Zumbies -  Tutorial Interativo](http://railsforzombies.org/)
-* [Ruby on Rails Tutorial - Michael Hartl](http://ruby.railstutorial.org/)
-
-## Videos
-* [RailsCast](http://railscasts.com/)
-* [Ruby on Rails (para iniciantes) - Lucas Caton](http://www.youtube.com/watch?v=pMYPHL4kdBo)
-
 ## Artigos
 * [“Debugando” Aplicações Rails com Console do Firebug](http://blog.glaucocustodio.com/2012/11/19/debugando-aplicacoes-rails-com-console-do-firebug/)
 * [Adicionar Arquivos a Serem Compilados no Asset Pipeline](http://blog.glaucocustodio.com/2012/12/18/adicionar-arquivos-a-serem-compilados-no-asset-pipeline/)
@@ -33,3 +17,19 @@
 ## Cursos
 * [Code School](https://www.codeschool.com/)
 * [howto - Cursos do Nando Vieira](http://howtocode.com.br/)
+
+## Guias
+* [Codelearn -  Tutorial Interativo](http://www.codelearn.org/ruby-on-rails-tutorial)
+* [Desenv. Ágil para Web com Ruby on Rails - Apostila Caelum](https://www.caelum.com.br/apostila-ruby-on-rails/)
+* [Rails for Zumbies -  Tutorial Interativo](http://railsforzombies.org/)
+* [Ruby on Rails Tutorial - Michael Hartl](http://ruby.railstutorial.org/)
+
+## Livros
+* [Crafting Rails 4 Applications - José Valim](http://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+* [Desenvolvimento Fácil e Rápido de Aplicações Web](http://www.novatec.com.br/livros/rubyonrails2/)
+* [Ruby on Rails: coloque sua aplicação web nos trilhos - Vinícius Baggio Fuentes](http://www.casadocodigo.com.br/products/livro-ruby-on-rails)
+* [Ruby On Rails - Executando](http://www.livrariasaraiva.com.br/produto/1574852/ruby-on-rails-executando)
+
+## Videos
+* [RailsCast](http://railscasts.com/)
+* [Ruby on Rails (para iniciantes) - Lucas Caton](http://www.youtube.com/watch?v=pMYPHL4kdBo)
