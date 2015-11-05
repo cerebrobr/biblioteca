@@ -1,4 +1,6 @@
-# Aprendendo Odin (FrameWork WordPress)
+# Odin
+
+> Documentação oficial:  [http://wpod.in/pt-br/](http://wpod.in/pt-br/)
 
 ## Livros
 
