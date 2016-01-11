@@ -102,6 +102,7 @@
 - [Securing Ajax Applications](http://shop.oreilly.com/product/9780596529314.do)
 - [Segredos do Ninja JavaScript](http://www.novatec.com.br/livros/ninja-javascript/)
 - [Testable JavaScript](http://shop.oreilly.com/product/0636920024699.do)
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 - [What Is Node?](http://shop.oreilly.com/product/0636920021506.do)
 
 ## Vídeos
