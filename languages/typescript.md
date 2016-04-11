@@ -9,6 +9,8 @@
 - [Object Oriented Programming with TypeScript Tutorial (JavaScript OOP)](http://www.codebelt.com/typescript/object-oriented-programming-with-typescript/)
 - [Typescript and Backbone](http://todomvc.com/labs/architecture-examples/typescript-backbone/)
 
+## Guias
+
 ## Livros
 - [Typescript Revealed](http://it-ebooks.info/book/2025/)
 - [Typescript Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/typescript/)
